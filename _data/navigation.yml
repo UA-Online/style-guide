@@ -10,7 +10,7 @@ grammar:
        - title: "abbreviations, acronyms"
          url: /pages/abbreviations-acronyms/
        - title: "addresses"
-         url: /pages/addresses//
+         url: /pages/addresses/
        - title: "ages"
          url: /pages/ages/
        - title: "alignment, justification"
