@@ -1,0 +1,119 @@
+index:
+  - title: Contents
+    children:
+      - title: "Grammar/Punctuation"
+        url: "#grammarpunctuation"
+
+grammar:
+   - title: Grammar/Punctuation
+     children:
+       - title: "abbreviations, acronyms"
+         url: /pages/abbreviations-acronyms/
+       - title: "addresses"
+         url: /pages/addresses//
+       - title: "ages"
+         url: /pages/ages/
+       - title: "alignment, justification"
+         url: /pages/alignment-justification/
+       - title: "ampersand"
+         url: /pages/ampersand/
+       - title: "asterisk"
+         url: /pages/asterisk/
+       - title: "capitalization"
+         url: /pages/capitalization/
+       - title: "certification, concentration, focus, specialization"
+         url: /pages/certification-concentration-focus-specialization/
+       - title: "colon"
+         url: /pages/colon/
+       - title: "comma"
+         url: /pages/comma/
+       - title: "dash, hyphen"
+         url: /pages/dash-hyphen/
+       - title: "dates"
+         url: /pages/dates/
+       - title: "headings"
+         url: /pages/headings/
+       - title: "hyperlinks"
+         url: /pages/hyperlinks/
+       - title: "in-"
+         url: /pages/in/
+       - title: "lists"
+         url: /pages/lists/
+       - title: "numbers, numerals"
+         url: /pages/numbers-numerals/
+       - title: "publication titles"
+         url: /pages/publication-titles/
+       - title: "spacing"
+         url: /pages/spacing/
+       - title: "state names"
+         url: /pages/state-names/
+       - title: "time zones"
+         url: /pages/time-zones/
+       - title: "time"
+         url: /pages/time/
+       - title: "Twitter"
+         url: /pages/twitter/
+       - title: "URLs"
+         url: /pages/urls/
+
+
+# main:
+#   - title: "Quick-Start Guide"
+#     url: /docs/quick-start-guide//
+#   - title: "Posts"
+#     url: /year-archive//
+#   - title: "Categories"
+#     url: /categories//
+#   - title: "Tags"
+#     url: /tags//
+#   - title: "Pages"
+#     url: /page-archive//
+#   - title: "Collections"
+#     url: /collection-archive//
+#   - title: "External Link"
+#     url: https://google.com/
+    
+# docs:
+#   - title: Getting Started
+#     children:
+#       - title: "Quick-Start Guide"
+#         url: /docs/quick-start-guide//
+#       - title: "Structure"
+#         url: /docs/structure//
+#       - title: "Installation"
+#         url: /docs/installation//
+#       - title: "Upgrading"
+#         url: /docs/upgrading//
+
+#   - title: Customization
+#     children:
+#       - title: "Configuration"
+#         url: /docs/configuration//
+#       - title: "Navigation"
+#         url: /docs/navigation//
+#       - title: "UI Text"
+#         url: /docs/ui-text//
+#       - title: "Authors"
+#         url: /docs/authors//
+#       - title: "Layouts"
+#         url: /docs/layouts//
+
+#   - title: Content
+#     children:
+#       - title: "Working with Posts"
+#         url: /docs/posts//
+#       - title: "Working with Pages"
+#         url: /docs/pages//
+#       - title: "Working with Collections"
+#         url: /docs/collections//
+#       - title: "Helpers"
+#         url: /docs/helpers//
+#       - title: "Utility Classes"
+#         url: /docs/utility-classes//
+
+#   - title: Extras
+#     children:
+#       - title: "Stylesheets"
+#         url: /docs/stylesheets//
+#       - title: "JavaScript"
+#         url: /docs/javascript//

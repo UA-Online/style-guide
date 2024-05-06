@@ -298,10 +298,10 @@ defaults:
       #  nav: "docs"
 
 # Collections*
-# collections:
-#   pages:
-#     output: true
-#     permalink: /:collection/:path/
+collections:
+   pages:
+     output: true
+     permalink: /:collection/:path/
 
 # defaults:
     # _docs
