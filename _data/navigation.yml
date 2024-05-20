@@ -3,6 +3,8 @@ index:
     children:
       - title: "Grammar/Punctuation"
         url: "#grammarpunctuation"
+      - title: "Word Choice"
+        url: "#word-choice"
 
 grammar:
    - title: Grammar/Punctuation
@@ -55,6 +57,132 @@ grammar:
          url: /pages/twitter/
        - title: "URLs"
          url: /pages/urls/
+
+wordchoice:
+   - title: Word Choice
+     children:
+       - title: "a, an"
+         url: /pages/a-an/
+       - title: "academic degrees"
+         url: /pages/academic-degrees/
+       - title: "academic departments"
+         url: /pages/academic-departments/
+       - title: "academic titles"
+         url: /pages/academic-titles/
+       - title: "admissions counselor"
+         url: /pages/admissions-counselor/
+       - title: "advisor"
+         url: /pages/advisor/
+       - title: "all but dissertation, ABD"
+         url: /pages/all-but-dissertation-abd/
+       - title: "a.m., p.m."
+         url: /pages/am-pm/
+       - title: "assure, ensure, insure"
+         url: /pages/assure-ensure-insure/
+       - title: "autoresponder"
+         url: /pages/autoresponder/
+       - title: "award-winning"
+         url: /pages/award-winning/
+       - title: "bachelor’s level, master’s level"
+         url: /pages/bachelors-level-masters-level/
+       - title: "co-worker"
+         url: /pages/co-worker/
+       - title: "Communication Studies"
+         url: /pages/communication-studies/
+       - title: "coursework"
+         url: /pages/coursework/
+       - title: "cross-list"
+         url: /pages/cross-list/
+       - title: "decision-making"
+         url: /pages/decision-making/
+       - title: "dietitian, dietician"
+         url: /pages/dietitian-dietician/
+       - title: "directions, regions"
+         url: /pages/directions-regions/
+       - title: "Educational Specialist"
+         url: /pages/educational-specialist/
+       - title: "email"
+         url: /pages/email/
+       - title: "fast track, fast-track"
+         url: /pages/fast-track-fast-track/
+       - title: "fewer, less"
+         url: /pages/fewer-less/
+       - title: "flyer"
+         url: /pages/flyer/
+       - title: "food service"
+         url: /pages/food-service/
+       - title: "full time, full-time"
+         url: /pages/full-time-full-time/
+       - title: "geotargeting"
+         url: /pages/geotargeting/
+       - title: "health care"
+         url: /pages/health-care/
+       - title: "internet"
+         url: /pages/internet/
+       - title: "J.M., LL.M."
+         url: /pages/jm-llm/
+       - title: "K-12"
+         url: /pages/k-12/
+       - title: "lifelong"
+         url: /pages/lifelong/
+       - title: "like, as"
+         url: /pages/like-as/
+       - title: "-maker"
+         url: /pages/maker/
+       - title: "Master of Public Health (MPH)"
+         url: /pages/master-of-public-health-mph/
+       - title: "master teacher, teacher leader"
+         url: /pages/master-teacher-teacher-leader/
+       - title: "midterm"
+         url: /pages/midterm/
+       - title: "much-needed"
+         url: /pages/much-needed/
+       - title: "non-"
+         url: /pages/non-/
+       - title: "Nurse Education, Nurse Educators"
+         url: /pages/nurse-education-nurse-educators/
+       - title: "off campus, off-campus, on campus, on-campus"
+         url: /pages/off-campus-off-campus-on-campus-on-campus/
+       - title: "ongoing"
+         url: /pages/ongoing/
+       - title: "PDF"
+         url: /pages/pdf/
+       - title: "percent, percentile (%)"
+         url: /pages/percent-percentile/
+       - title: "postgraduate"
+         url: /pages/postgraduate/
+       - title: "preapprove, preapproved, nonapproved"
+         url: /pages/preapprove-preapproved-nonapproved/
+       - title: "prerequisite"
+         url: /pages/prerequisite/
+       - title: "problem-solving"
+         url: /pages/problem-solving/
+       - title: "program-specific"
+         url: /pages/program-specific/
+       - title: "readmission"
+         url: /pages/readmission/
+       - title: "real time, real-time"
+         url: /pages/real-time-real-time/
+       - title: "reprint"
+         url: /pages/reprint/
+       - title: "skill set"
+         url: /pages/skill-set/
+       - title: "specialist, specialization"
+         url: /pages/specialist-specialization/
+       - title: "students, prospective students"
+         url: /pages/students-prospective-students/
+       - title: "United States, U.S."
+         url: /pages/united-states-us/
+       - title: "University of Alabama, The"
+         url: /pages/university-of-alabama-the/
+       - title: "video, videoconference, video recording, video streaming"
+         url: /pages/video-videoconference-video-recording-video-streaming/
+       - title: "website, webpage, the web, the World Wide Web"
+         url: /pages/website-webpage-the-web-the-world-wide-web/
+       - title: "who, whom"
+         url: /pages/who-whom/
+       - title: "year-round"
+         url: /pages/year-round/
 
 
 # main:

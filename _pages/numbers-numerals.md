@@ -30,7 +30,8 @@ _The Tide finished first. He had nine laps to go. Fourth grade, the First Amendm
 ### School grades
  Spell out first through ninth grades: _fourth grade, fifth-grader_ (note hyphen). Use figures for grades 10 and above: _10th grade._
 
-**Test scores**: Use figures for SAT, ACT and similar test scores. Use figures in constructions such as SAT-1. Do not add commas to SAT or other scores that reach into the thousands: _Her GRE composite score was 2070_.
+## Test scores
+Use figures for SAT, ACT and similar test scores. Use figures in constructions such as SAT-1. Do not add commas to SAT or other scores that reach into the thousands: _Her GRE composite score was 2070_.
 
 ### Times
  Use figures for time of day except for noon and midnight: _1 p.m., 10:30 a.m., 5 o’clock_. Spell out numbers less than 10 standing alone and in modifiers: _I’ll be there in five minutes. The two-minute warning._[^16]
