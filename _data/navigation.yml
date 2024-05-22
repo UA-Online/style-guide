@@ -5,6 +5,8 @@ index:
         url: "#grammarpunctuation"
       - title: "Word Choice"
         url: "#word-choice"
+      - title: "Customs"
+        url: "#marketing-and-recruitment-customs"
 
 grammar:
    - title: Grammar/Punctuation
@@ -183,6 +185,24 @@ wordchoice:
          url: /pages/who-whom/
        - title: "year-round"
          url: /pages/year-round/
+
+customs:
+    - title: Marketing and Recruitment Customs
+      children:
+       - title: "certificates, forms"
+         url: /pages/certificates-forms/
+       - title: "course numbers, course titles"
+         url: /pages/course-numbers-course-titles/
+       - title: "credit hours"
+         url: /pages/credit-hours/
+       - title: "divisions"
+         url: /pages/divisions/
+       - title: "free"
+         url: /pages/free/
+       - title: "program designations — online, primarily online, blended"
+         url: /pages/program-designations-online-primarily-online-blended/
+       - title: "rise with the Tide, Rise With the Tide"
+         url: /pages/rise-with-the-tide/
 
 
 # main:
