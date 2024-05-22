@@ -126,3 +126,11 @@ Entry sources are cited when available. Content on the AP Stylebook website may 
 - [program designations — online, primarily online, blended](pages/program-designations-online-primarily-online-blended)
 - [rise with the Tide, Rise With the Tide](pages/rise-with-the-tide)
 {: .index_toc}
+
+## References and Resources
+- [Contact Information](pages/contact-information)
+- [Microsite Contact Page Sample](pages/microsite-contact-page-sample)
+- [Twitter](pages/twitter-2)
+- [Visual Guidelines](pages/visual-guidelines)
+- [Website](pages/website)
+{: .index_toc}

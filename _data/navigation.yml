@@ -7,6 +7,8 @@ index:
         url: "#word-choice"
       - title: "Customs"
         url: "#marketing-and-recruitment-customs"
+      - title: "References and Resources"
+        url: "#references-and-resources"
 
 grammar:
    - title: Grammar/Punctuation
@@ -204,7 +206,20 @@ customs:
        - title: "rise with the Tide, Rise With the Tide"
          url: /pages/rise-with-the-tide/
 
-
+references:
+     - title: References and Resources
+       children:
+       - title: "Contact Information"
+         url: /pages/contact-information/
+       - title: "Microsite Contact Page Sample"
+         url: /pages/microsite-contact-page-sample/
+       - title: "Twitter"
+         url: /pages/twitter-2/
+       - title: "Visual Guidelines"
+         url: /pages/visual-guidelines/
+       - title: "Website"
+         url: /pages/website/
+         
 # main:
 #   - title: "Quick-Start Guide"
 #     url: /docs/quick-start-guide//
