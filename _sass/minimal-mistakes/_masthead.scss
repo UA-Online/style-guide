@@ -11,6 +11,9 @@
   animation-delay: 0.15s;
   z-index: 20;
 
+/* fix-masthead-spacing addition */
+  margin-bottom: 0.5rem;
+
   &__inner-wrap {
     @include clearfix;
     margin-left: auto;
