@@ -523,6 +523,10 @@ body:hover .visually-hidden button {
 .footnotes {
   color: mix(#fff, $gray, 25%);
 
+  /* fix-footnote-border addition */
+  border-top: 1px solid #f2f3f3;
+  margin-top: 5rem;
+
   ol,
   li,
   p {
