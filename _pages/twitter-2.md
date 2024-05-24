@@ -1,5 +1,5 @@
 ---
-title: Twitter
+title: Twitter (UA Online)
 section: references
 sidebar:
   nav: "references"
