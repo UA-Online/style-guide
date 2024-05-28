@@ -11,7 +11,7 @@ For documents like the annual UA Online Guide brochure, there is different punct
 *   Certification: MA in Educational Leadership, Instructional Leadership P-12 Certification
 *   Concentration: MS in Consumer Sciences, concentration in Family Financial Planning & Counseling
 *   Focus: MS in HES (Consumer Quality Management)
-*   Specialization: MA in Educational Psychology, specialization in Learning & Assessment
+*   Specialization: MA in Communication Studies, specialization in Organizational Leadership
 
 Because “concentration” and “specialization” (also “conditional”) are specific degree program terms, they should not be used often except in reference to those programs. Avoid the phrase “conditional admission.”
 
