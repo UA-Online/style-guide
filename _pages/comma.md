@@ -28,7 +28,7 @@ Do not use a comma when the subject of two clauses is not repeated in the second
  Use commas to separate equal adjectives where “and” could be substituted instead: _a distance, accredited business program_ (a program that’s both distance and accredited). Do not use a comma when the adjectives are not equal or one adjective modifies the other: _a weekend distance program_ (distance programs only offered on the weekends).
 
 ### With full dates
- When a phrase refers to a month, day and year, set off the year with a comma: _February 14, 2022, is the target date_.[^10]
+ When a phrase refers to a month, day and year, set off the year with a comma: _February 14, 2030, is the target date_.[^10]
 
 See also: [dates](../dates).
 

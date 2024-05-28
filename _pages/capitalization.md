@@ -10,7 +10,7 @@ Do not capitalize short forms of the names of University programs and facilities
 
 Do not capitalize the names of disciplines such as history, art, etc., unless derived from proper nouns: _Students may count up to 18 hours in sociology, French or political science toward the major._ M&R always capitalizes majors/specialties in degree names, however: _Master of Science in Aerospace Engineering and Mechanics, master’s in Aerospace Engineering and Mechanics._
 
-Do not capitalize the common names of semesters, terms, academic sessions or periods, such as _fall semester, registration_, _orientation_ and _commencement_. If a semester or term is followed by a specific year, use capitalization: _Fall Semester 2003; the program began in Spring 2015_.[^6]
+Do not capitalize the common names of semesters, terms, academic sessions or periods, such as _fall semester, registration_, _orientation_ and _commencement_. If a semester or term is followed by a specific year, use capitalization: _Fall Semester 2024; the program began in Spring 2015_.[^6]
 
 ### Compositions
  Capitalize the principal words in the names of books, movies, poems, songs, radio and television programs, works of art, etc.[^7]

@@ -75,8 +75,8 @@ wordchoice:
          url: /pages/academic-departments/
        - title: "academic titles"
          url: /pages/academic-titles/
-       - title: "admissions counselor"
-         url: /pages/admissions-counselor/
+       - title: "admissions representative"
+         url: /pages/admissions-representative/
        - title: "advisor"
          url: /pages/advisor/
        - title: "all but dissertation, ABD"
@@ -125,8 +125,6 @@ wordchoice:
          url: /pages/health-care/
        - title: "internet"
          url: /pages/internet/
-       - title: "J.M., LL.M."
-         url: /pages/jm-llm/
        - title: "K-12"
          url: /pages/k-12/
        - title: "lifelong"

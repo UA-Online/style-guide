@@ -1,12 +1,12 @@
 ---
-title: Twitter (UA Online)
+title: X/Twitter (UA Online)
 section: references
 sidebar:
   nav: "references"
 ---
-# Twitter
+# X/Twitter
 
-@UAOnline — Actual URL is https://twitter.com/UAOnline
+@UAOnline — Actual URL is https://x.com/UAOnline
 
-See also: [Twitter](../twitter) (“Grammar/Punctuation”)
+See also: [X/Twitter](../twitter) (“Grammar/Punctuation”)
 

@@ -12,11 +12,11 @@ Below are the official names of colleges as recognized by Strategic Communicatio
 *   College of Arts and Sciences, A&S
 *   College of Communication and Information Sciences, C&IS
 *   College of Community Health Sciences, CCHS
-*   College of Continuing Studies, CCS
 *   College of Education, COE
 *   College of Engineering, ENG
 *   College of Human Environmental Sciences, HES
 *   Culverhouse College of Business, CBA (for internal use only)
 *   School of Social Work, SW
+*   Office of Teaching Innovation and Digital Education, OTIDE
 
 [^80]: Strategic Communications
