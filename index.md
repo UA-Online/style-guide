@@ -116,3 +116,13 @@ Entry sources are cited when available. Content on the AP Stylebook website may 
 - [who, whom](pages/who-whom)
 - [year-round](pages/year-round)
 {: .index_toc}
+
+### Marketing and Recruitment Customs
+- [certificates, forms](pages/certificates-forms)
+- [course numbers, course titles](pages/course-numbers-course-titles)
+- [credit hours](pages/credit-hours)
+- [divisions](pages/divisions)
+- [free](pages/free)
+- [program designations — online, primarily online, blended](pages/program-designations-online-primarily-online-blended)
+- [rise with the Tide, Rise With the Tide](pages/rise-with-the-tide)
+{: .index_toc}
