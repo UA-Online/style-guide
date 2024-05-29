@@ -1,10 +1,10 @@
 ---
-title: asterisk (\*)
+title: asterisk (*)
 section: grammar
 sidebar:
   nav: "grammar"
 ---
-# asterisk (\*)
+# asterisk (*)
 
 An asterisk commonly indicates the presence of a note following a set of paragraphs or a table.\*
 

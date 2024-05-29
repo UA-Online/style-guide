@@ -302,6 +302,7 @@ collections:
    pages:
      output: true
      permalink: /:collection/:path/
+     title: Pages
 
 # defaults:
     # _docs
