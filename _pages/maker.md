@@ -1,10 +1,8 @@
 ---
 title: -maker
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## -maker
+# -maker
 
 Follow Webster’s New World College Dictionary. If the word combination is not listed, use two words for the verb form and hyphenate any noun or adjective forms.[^56]
 

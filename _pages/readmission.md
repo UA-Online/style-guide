@@ -1,9 +1,7 @@
 ---
 title: readmission
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## readmission
+# readmission
 
 Per [AP Stylebook](https://www.apstylebook.com/ask_the_editors/30066).

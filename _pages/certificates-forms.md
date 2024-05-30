@@ -1,10 +1,8 @@
 ---
 title: certificates, forms
-section: customs
-sidebar:
-  nav: "customs"
+section: Marketing and Recruitment Customs
 ---
-## certificates, forms
+# certificates, forms
 
 General terms used to describe forms should not be capitalized: _application for admission, financial aid forms_.
 

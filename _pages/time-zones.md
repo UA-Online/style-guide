@@ -1,8 +1,6 @@
 ---
 title: time zones
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # time zones
 

@@ -1,10 +1,8 @@
 ---
 title: specialist, specialization
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## specialist, specialization
+# specialist, specialization
 
 Capitalize for Educational Specialist (where EdS is a formal degree, like _Educational Specialist in Special Education_), but lowercase when not referring to a degree, like “child life specialist.”
 

@@ -1,8 +1,6 @@
 ---
 title: dash, hyphen
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # dash, hyphen
 

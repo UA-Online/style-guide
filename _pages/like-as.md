@@ -1,10 +1,8 @@
 ---
 title: like, as
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## like, as
+# like, as
 
 Use “like” for comparison; use “as” to introduce clauses. _Quinnen blocks like a pro,_ but _Isaiah blocked the linebacker as if the game depended on it._[^55]
 

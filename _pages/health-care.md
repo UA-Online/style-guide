@@ -1,10 +1,8 @@
 ---
 title: health care
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## health care
+# health care
 
 Two words. AP differs from Webster’s on this. Also “health care industry” and “health care provider” with no hyphens.[^51] If an organization uses “healthcare” as one word in their name (e.g., IHI, the Institute for Healthcare Improvement), defer to their usage when referring to the organization.
 

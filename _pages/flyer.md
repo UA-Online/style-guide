@@ -1,10 +1,8 @@
 ---
 title: flyer
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## flyer
+# flyer
 
 For references to advertisements. Preferred over “flier.”[^47]
 

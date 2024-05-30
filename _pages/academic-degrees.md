@@ -1,10 +1,8 @@
 ---
 title: academic degrees
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## academic degrees
+# academic degrees
 
 Degree names are possessive when the word “degree” is present or understood (bachelor’s, master’s degree, but “associate” is not possessive in “associate degree”). Degree names are never possessive in the case of Bachelor of Arts, Master of Science, Juris Master, or etc.
 

@@ -1,10 +1,8 @@
 ---
 title: lifelong
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## lifelong
+# lifelong
 
 One word, adjective.[^54]
 

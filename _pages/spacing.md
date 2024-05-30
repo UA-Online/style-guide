@@ -1,8 +1,6 @@
 ---
 title: spacing
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # spacing
 

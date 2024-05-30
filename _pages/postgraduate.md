@@ -1,9 +1,7 @@
 ---
 title: postgraduate
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## postgraduate
+# postgraduate
 
 Per [AP Stylebook](https://www.apstylebook.com/ap_stylebook/post).

@@ -1,10 +1,8 @@
 ---
 title: email
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## email
+# email
 
 No hyphen for email, but use a hyphen with other _e-_ terms to indicate digital format: _e-book, e-reader, e-commerce, e-blast, e-newsletter_. In headings or uppercase usage, capitalize both parts of the word: _E-Blast, E-Newsletter._[^44]
 

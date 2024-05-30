@@ -1,8 +1,6 @@
 ---
 title: dates
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # dates
 

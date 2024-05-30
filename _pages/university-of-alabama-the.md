@@ -1,10 +1,8 @@
 ---
 title: University of Alabama, The
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## University of Alabama, The
+# University of Alabama, The
 
 Capitalize “the” whenever it would properly appear before the University’s full name in a sentence. “The” is capitalized even when we might not capitalize “the” before the names of other universities or colleges. _The best Halloween costumes are found at the Office of Teaching Innovation and Digital Education_. _For the 17th year, The University of Alabama was the champion._
 

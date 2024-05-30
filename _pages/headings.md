@@ -1,8 +1,6 @@
 ---
 title: headings
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # headings
 

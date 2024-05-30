@@ -1,8 +1,6 @@
 ---
 title: X/Twitter (UA Online)
-section: references
-sidebar:
-  nav: "references"
+section: References and Resources
 ---
 # X/Twitter
 

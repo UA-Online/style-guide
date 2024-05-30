@@ -1,10 +1,8 @@
 ---
 title: dietitian, dietician
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## dietitian, dietician
+# dietitian, dietician
 
 Dietitian is the preferred spelling.[^41]
 
