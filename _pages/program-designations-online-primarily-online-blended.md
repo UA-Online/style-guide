@@ -1,10 +1,8 @@
 ---
 title: program designations — online, primarily online, blended
-section: customs
-sidebar:
-  nav: "customs"
+section: Marketing and Recruitment Customs
 ---
-## program designations — online, primarily online, blended
+# program designations — online, primarily online, blended
 
 “Distance learning program” is written without hyphens.
 

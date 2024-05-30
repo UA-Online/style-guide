@@ -1,9 +1,7 @@
 ---
 title: prerequisite
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## prerequisite
+# prerequisite
 
 Per [AP Stylebook](https://www.apstylebook.com/ask_the_editors/25496).

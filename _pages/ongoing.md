@@ -1,9 +1,7 @@
 ---
 title: ongoing
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## ongoing
+# ongoing
 
 Per Webster's.

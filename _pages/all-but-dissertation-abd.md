@@ -1,10 +1,8 @@
 ---
 title: all but dissertation, ABD
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## all but dissertation, ABD
+# all but dissertation, ABD
 
 Listed in Webster’s New World College Dictionary without periods. Consider “PhD candidate” as an alternative.[^31]
 

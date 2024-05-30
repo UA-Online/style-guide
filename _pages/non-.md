@@ -1,10 +1,8 @@
 ---
 title: non-
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## non-
+# non-
 
 Usually not hyphenated when used before a word starting with a consonant, e.g., _nontraditional, nonresident_. Use a hyphen before proper nouns or in awkward combinations, such as _non-nuclear_.[^59] Consult Webster’s New World College Dictionary for more guidance.
 

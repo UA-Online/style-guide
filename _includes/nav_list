@@ -25,6 +25,7 @@
 
     {% if page.section %}
     <li>
+      <span class="nav__sub-title">{{ page.section }}</span>
       <ul>
         {% for doc in site.pages %}
         {% if doc.section == page.section %}

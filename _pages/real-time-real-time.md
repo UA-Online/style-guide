@@ -1,10 +1,8 @@
 ---
 title: real time, real-time
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## real time, real-time
+# real time, real-time
 
 Hyphenate as a compound modifier: _It happened in real time. It was a real-time event._[^69]
 

@@ -1,10 +1,8 @@
 ---
 title: course numbers, course titles
-section: customs
-sidebar:
-  nav: "customs"
+section: Marketing and Recruitment Customs
 ---
-## course numbers, course titles
+# course numbers, course titles
 
 The parts of a course name are the alpha symbol (EN), course number (101) and title (English Composition). When an alpha symbol, number and title are given together, there is no punctuation between the course number and title. When possible, try not to abbreviate words in the course title.
 

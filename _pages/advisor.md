@@ -1,10 +1,8 @@
 ---
 title: advisor
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## advisor
+# advisor
 
 2022 guidance from Strategic Communications says “advisor” is acceptable for any context except “news releases,” where “adviser” is preferred.[^30] For M&R purposes, “advisor” will be used most often.
 

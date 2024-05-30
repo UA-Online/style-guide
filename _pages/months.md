@@ -1,8 +1,6 @@
 ---
 title: months
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # months
 

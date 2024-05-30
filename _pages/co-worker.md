@@ -1,9 +1,7 @@
 ---
 title: co-worker
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## co-worker
+# co-worker
 
 Per [AP Stylebook](https://www.apstylebook.com/ap_stylebook/coworking-n-adj).

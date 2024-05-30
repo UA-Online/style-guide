@@ -1,8 +1,6 @@
 ---
 title: Microsite Contact Page Sample
-section: references
-sidebar:
-  nav: "references"
+section: References and Resources
 ---
 # Microsite Contact Page Sample
 

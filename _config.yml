@@ -294,7 +294,7 @@ defaults:
       toc_label: "Contents"
       toc_icon: false # "cog"
       toc_sticky: true
-      # sidebar:
+      sidebar: nav
       #  nav: "docs"
 
 # Collections*

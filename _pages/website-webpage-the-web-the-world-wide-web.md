@@ -1,10 +1,8 @@
 ---
 title: website, webpage, the web, the World Wide Web
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## website, webpage, the web, the World Wide Web
+# website, webpage, the web, the World Wide Web
 
 Based on Webster’s. UA usage varies but we should aim for consistency within documents.[^75]
 

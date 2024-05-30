@@ -1,9 +1,7 @@
 ---
 title: reprint
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## reprint
+# reprint
 
 Per Webster’s.

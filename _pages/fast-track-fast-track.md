@@ -1,10 +1,8 @@
 ---
 title: fast track, fast-track
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## fast track, fast-track
+# fast track, fast-track
 
 Fast track (noun); fast-track (verb or adjective): _You’re on the fast track to success_, but _we’re fast-tracking this project._[^45]
 

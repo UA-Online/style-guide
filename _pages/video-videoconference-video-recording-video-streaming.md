@@ -1,10 +1,8 @@
 ---
 title: video, videoconference, video recording, video streaming
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## video, videoconference, video recording, video streaming
+# video, videoconference, video recording, video streaming
 
 Two words. Note that “video record” is still an acceptable term when the video is being recorded digitally, but “videotaping” or “videotaped” should be avoided unless accurate.[^74]
 

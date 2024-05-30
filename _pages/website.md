@@ -1,8 +1,6 @@
 ---
 title: Website
-section: references
-sidebar:
-  nav: "references"
+section: References and Resources
 ---
 # Website
 

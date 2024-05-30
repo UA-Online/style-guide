@@ -1,10 +1,8 @@
 ---
 title: award-winning
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## award-winning
+# award-winning
 
 Hyphenated as a compound adjective: _UA’s award-winning Culverhouse College of Business_.[^35]
 

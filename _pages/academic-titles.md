@@ -1,10 +1,8 @@
 ---
 title: academic titles
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## academic titles
+# academic titles
 
 Capitalize formal titles when used immediately before a name. Lowercase formal titles when used alone or in constructions that set them off from a name by commas: _Dean Robert Tidwell_, but _Dr. Robert Tidwell, dean of the Extension Division_.[^28]
 

@@ -1,10 +1,8 @@
 ---
 title: much-needed
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## much-needed
+# much-needed
 
 Hyphenated as a compound modifier: _much-needed experience._[^58]
 

@@ -1,8 +1,6 @@
 ---
 title: colon (:)
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # colon (:)
 

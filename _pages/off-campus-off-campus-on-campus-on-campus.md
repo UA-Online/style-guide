@@ -1,10 +1,8 @@
 ---
 title: off campus, off-campus, on campus, on-campus
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## off campus, off-campus, on campus, on-campus
+# off campus, off-campus, on campus, on-campus
 
 Hyphenate when used as a modifier but not when “campus” is used as a noun.
 

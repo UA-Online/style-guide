@@ -1,10 +1,8 @@
 ---
 title: PDF
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## PDF
+# PDF
 
 All caps in almost all uses (except when writing out a filename).[^62]
 

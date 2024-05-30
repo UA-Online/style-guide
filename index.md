@@ -18,34 +18,34 @@ Entry sources are cited when available. Content on the AP Stylebook website may 
 
 [^1]: The University of Alabama Strategic Communications Editorial Style Guide is available at [https://strategiccommunications.ua.edu/standards/editorial-style](https://strategiccommunications.ua.edu/standards/editorial-style). The Strategic Communications online guide is constantly updated, and references in this document may no longer appear on the Strategic Communications webpage.
 
+{% assign toc = site.data.navigation.index | where: 'title', 'Contents' | first %}
+## {{toc.title}}
+<ul>
+{% for entry in toc.children %}
+<li><a href="{{entry.url}}">{{entry.title}}</a></li>
+{% endfor %}
+</ul>
 
-## Table of Contents
 
-- [Grammar/Punctuation](#grammarpunctuation)
-- [Word Choice](#word-choice)
-- [Marketing and Recruitment Customs](#marketing-and-recruitment-customs)
-- [References and Resources](#references-and-resources)
-- [Site Index](siteindex)
-
-### Grammar/Punctuation
+{% assign filtered_posts = site.pages | where: 'section', 'Grammar/Punctuation' %}
+### {{filtered_posts.first.section}}
 <ul class="index_toc">
-{% assign filtered_posts = site.pages | where: 'section', 'grammar' %}
 {% for entry in filtered_posts %}
   <li><a href="{{ entry.url | absolute_url }}">{{ entry.title}}</a></li>
 {% endfor %}
 </ul>
 
-### Word Choice
+{% assign filtered_posts = site.pages | where: 'section', 'Word Choice' %}
+### {{filtered_posts.first.section}}
 <ul class="index_toc">
-{% assign filtered_posts = site.pages | where: 'section', 'wordchoice' %}
 {% for entry in filtered_posts %}
   <li><a href="{{ entry.url | absolute_url }}">{{ entry.title}}</a></li>
 {% endfor %}
 </ul>
 
-### Marketing and Recruitment Customs
+{% assign filtered_posts = site.pages | where: 'section', 'Marketing and Recruitment Customs' %}
+### {{filtered_posts.first.section}}
 <ul class="index_toc">
-{% assign filtered_posts = site.pages | where: 'section', 'customs' %}
 {% for entry in filtered_posts %}
   <li><a href="{{ entry.url | absolute_url }}">{{ entry.title}}</a></li>
 {% endfor %}
@@ -53,7 +53,7 @@ Entry sources are cited when available. Content on the AP Stylebook website may 
 
 ## References and Resources
 <ul class="index_toc">
-{% assign filtered_posts = site.pages | where: 'section', 'references' %}
+{% assign filtered_posts = site.pages | where: 'section', 'References and Resources' %}
 {% for entry in filtered_posts %}
   <li><a href="{{ entry.url | absolute_url }}">{{ entry.title}}</a></li>
 {% endfor %}

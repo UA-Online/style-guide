@@ -1,10 +1,8 @@
 ---
 title: problem-solving
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## problem-solving
+# problem-solving
 
 Hyphenated in all uses.[^67]
 

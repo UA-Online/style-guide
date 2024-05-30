@@ -1,10 +1,8 @@
 ---
 title: preapprove, preapproved, nonapproved
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## preapprove, preapproved, nonapproved
+# preapprove, preapproved, nonapproved
 
 Per [AP Stylebook](https://www.apstylebook.com/ask_the_editors/12537).
 
