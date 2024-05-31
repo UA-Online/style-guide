@@ -1,8 +1,6 @@
 ---
 title: certification, concentration, focus, specialization
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # certification, concentration, focus, specialization
 

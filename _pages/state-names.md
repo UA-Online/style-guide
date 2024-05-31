@@ -1,8 +1,6 @@
 ---
 title: state names
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # state names
 

@@ -1,10 +1,8 @@
 ---
 title: geotargeting
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## geotargeting
+# geotargeting
 
 No hyphen for most words beginning with “geo-.”[^50]
 

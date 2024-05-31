@@ -1,10 +1,8 @@
 ---
 title: admissions representative
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## admissions representative
+# admissions representative
 
 “Admissions representative/admissions representatives” is the preferred title for members of the Recruitment team. Replaces previous usage of “enrollment counselors" and "admissions counselors.”[^29]
 

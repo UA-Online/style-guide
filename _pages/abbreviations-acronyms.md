@@ -1,8 +1,6 @@
 ---
 title: abbreviations, acronyms
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # abbreviations, acronyms
 

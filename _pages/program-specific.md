@@ -1,10 +1,8 @@
 ---
 title: program-specific
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## program-specific
+# program-specific
 
 With hyphen.
 

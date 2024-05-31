@@ -1,8 +1,6 @@
 ---
 title: addresses
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # addresses
 

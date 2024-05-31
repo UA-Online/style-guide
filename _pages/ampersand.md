@@ -1,8 +1,6 @@
 ---
 title: ampersand (&)
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # ampersand (&)
 

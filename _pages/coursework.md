@@ -1,10 +1,8 @@
 ---
 title: coursework
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## coursework
+# coursework
 
 One word. Per Strategic Communications, “Generally refers to the courses taken for degree credit.”[^37]
 

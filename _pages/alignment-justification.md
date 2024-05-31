@@ -1,8 +1,6 @@
 ---
 title: alignment, justification
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # alignment, justification
 

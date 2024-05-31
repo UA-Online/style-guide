@@ -1,8 +1,6 @@
 ---
 title: comma (,)
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # comma (,)
 

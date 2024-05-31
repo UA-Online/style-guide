@@ -1,10 +1,8 @@
 ---
 title: United States, U.S.
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## United States, U.S.
+# United States, U.S.
 
 The abbreviation U.S. is spelled with periods, even as other abbreviations (_UA, AP_) are not.[^72]
 

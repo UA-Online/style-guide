@@ -1,10 +1,8 @@
 ---
 title: directions, regions
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## directions, regions
+# directions, regions
 
 Lowercase “north,” “south,” “northeast,” “southern,” etc., when they indicate compass direction; capitalize these words when they designate widely known regions.
 

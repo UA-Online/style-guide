@@ -1,9 +1,7 @@
 ---
 title: autoresponder
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## autoresponder
+# autoresponder
 
 Per Webster’s.

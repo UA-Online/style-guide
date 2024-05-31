@@ -1,8 +1,6 @@
 ---
 title: Visual Guidelines
-section: references
-sidebar:
-  nav: "references"
+section: References and Resources
 ---
 # Visual Guidelines
 

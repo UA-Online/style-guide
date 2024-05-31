@@ -1,10 +1,8 @@
 ---
 title: year-round
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## year-round
+# year-round
 
 Hyphenated “year-round” for all uses.[^77]
 

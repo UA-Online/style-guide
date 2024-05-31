@@ -1,10 +1,8 @@
 ---
 title: full time, full-time
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## full time, full-time
+# full time, full-time
 
 Hyphenate when used as a compound modifier: _She has a full-time job. He works full time._[^48]
 

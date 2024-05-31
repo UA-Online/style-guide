@@ -1,10 +1,8 @@
 ---
 title: bachelor’s level, master’s level
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## bachelor’s level, master’s level
+# bachelor’s level, master’s level
 
 These phrases do not use a hyphen even when acting as a modifier: _master’s level teaching certification_.[^36]
 

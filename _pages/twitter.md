@@ -1,8 +1,6 @@
 ---
 title: X/Twitter
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # X/Twitter
 

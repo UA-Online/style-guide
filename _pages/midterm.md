@@ -1,9 +1,7 @@
 ---
 title: midterm
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## midterm
+# midterm
 
 Per Strategic Communications.

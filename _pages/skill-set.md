@@ -1,10 +1,8 @@
 ---
 title: skill set
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## skill set
+# skill set
 
 Two words with no hyphen.[^71]
 

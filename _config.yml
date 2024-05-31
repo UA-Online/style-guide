@@ -294,7 +294,7 @@ defaults:
       toc_label: "Contents"
       toc_icon: false # "cog"
       toc_sticky: true
-      # sidebar:
+      sidebar: nav
       #  nav: "docs"
 
 # Collections*
@@ -302,6 +302,7 @@ collections:
    pages:
      output: true
      permalink: /:collection/:path/
+     title: Pages
 
 # defaults:
     # _docs

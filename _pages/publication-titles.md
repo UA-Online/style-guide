@@ -1,8 +1,6 @@
 ---
 title: publication titles
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # publication titles
 

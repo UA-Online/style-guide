@@ -1,10 +1,8 @@
 ---
 title: decision-making
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## decision-making
+# decision-making
 
 Hyphenated as “decision-making” for noun or adjective.[^40]
 

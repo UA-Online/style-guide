@@ -1,10 +1,8 @@
 ---
 title: who, whom
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## who, whom
+# who, whom
 
 Use “who” instead of “that” when referring to living things.
 

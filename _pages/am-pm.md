@@ -1,10 +1,8 @@
 ---
 title: a.m., p.m.
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## a.m., p.m.
+# a.m., p.m.
 
 Lowercase, with periods,[^32] and preceded by a space: _7 p.m., 9–11 a.m._, _9 a.m. to 5 p.m._
 

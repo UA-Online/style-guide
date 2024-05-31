@@ -1,10 +1,8 @@
 ---
 title: food service
-section: wordchoice
-sidebar:
-  nav: "wordchoice"
+section: Word Choice
 ---
-## food service
+# food service
 
 Two words with no hyphen.[^49]
 

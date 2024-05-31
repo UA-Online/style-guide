@@ -1,10 +1,8 @@
 ---
 title: divisions
-section: customs
-sidebar:
-  nav: "customs"
+section: Marketing and Recruitment Customs
 ---
-## divisions
+# divisions
 
 Below are the official names of colleges as recognized by Strategic Communications.[^80] The abbreviations for the colleges are mostly for internal use; consult a marketing or program manager before using a college abbreviation in external materials.
 

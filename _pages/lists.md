@@ -1,8 +1,6 @@
 ---
 title: lists
-section: grammar
-sidebar:
-  nav: "grammar"
+section: Grammar/Punctuation
 ---
 # lists
 

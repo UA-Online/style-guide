@@ -1,8 +1,6 @@
 ---
 title: Contact Information
-section: references
-sidebar:
-  nav: "references"
+section: References and Resources
 ---
 # Contact Information
 
