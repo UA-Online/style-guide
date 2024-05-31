@@ -301,8 +301,8 @@ defaults:
 collections:
    pages:
      output: true
-     permalink: /:collection/:path/
-     title: Pages
+     title: Site Index
+#    permalink: /:collection/:path/     
 
 # defaults:
     # _docs
