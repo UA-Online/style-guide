@@ -154,7 +154,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -290,7 +290,7 @@ defaults:
       comments: # true
       share: false
       related: false
-      toc: true
+      toc: true # in-page sidebar
       toc_label: "Contents"
       toc_icon: false # "cog"
       toc_sticky: true
@@ -302,7 +302,7 @@ collections:
    pages:
      output: true
      title: Site Index
-#    permalink: /:collection/:path/     
+     permalink: /:collection/:path/     
 
 # defaults:
     # _docs
