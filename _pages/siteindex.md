@@ -1,8 +1,8 @@
 ---
 title: Site Index
-# layout: collection-siteindex
 layout: collection
-permalink: /siteindex/
+permalink: /siteindex/ # Directory is created in _sites because it's specified here
+# layout: collection-siteindex
 # collection: siteindex
 # entries_layout: grid
 # classes: wide
