@@ -27,34 +27,34 @@ Entry sources are cited when available. Content on the AP Stylebook website may 
 </ul>
 
 
-{% assign filtered_posts = site.pages | where: 'section', 'Grammar/Punctuation' %}
+{% assign filtered_posts = site.entries | where: 'section', 'Grammar/Punctuation' %}
 ### {{filtered_posts.first.section}}
 <ul class="index_toc">
 {% for entry in filtered_posts %}
-  <li><a href="{{ entry.url | absolute_url }}">{{ entry.title}}</a></li>
+  <li><a href="{{ entry.url | relative_url }}">{{ entry.title}}</a></li>
 {% endfor %}
 </ul>
 
-{% assign filtered_posts = site.pages | where: 'section', 'Word Choice' %}
+{% assign filtered_posts = site.entries | where: 'section', 'Word Choice' %}
 ### {{filtered_posts.first.section}}
 <ul class="index_toc">
 {% for entry in filtered_posts %}
-  <li><a href="{{ entry.url | absolute_url }}">{{ entry.title}}</a></li>
+  <li><a href="{{ entry.url | relative_url }}">{{ entry.title}}</a></li>
 {% endfor %}
 </ul>
 
-{% assign filtered_posts = site.pages | where: 'section', 'Marketing and Recruitment Customs' %}
+{% assign filtered_posts = site.entries | where: 'section', 'Marketing and Recruitment Customs' %}
 ### {{filtered_posts.first.section}}
 <ul class="index_toc">
 {% for entry in filtered_posts %}
-  <li><a href="{{ entry.url | absolute_url }}">{{ entry.title}}</a></li>
+  <li><a href="{{ entry.url | relative_url }}">{{ entry.title}}</a></li>
 {% endfor %}
 </ul>
 
-{% assign filtered_posts = site.pages | where: 'section', 'References and Resources' %}
+{% assign filtered_posts = site.entries | where: 'section', 'References and Resources' %}
 ### {{filtered_posts.first.section}}
 <ul class="index_toc">
 {% for entry in filtered_posts %}
-  <li><a href="{{ entry.url | absolute_url }}">{{ entry.title}}</a></li>
+  <li><a href="{{ entry.url | relative_url }}">{{ entry.title}}</a></li>
 {% endfor %}
 </ul>
