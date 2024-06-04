@@ -8,4 +8,4 @@ Capitalize for Educational Specialist (where EdS is a formal degree, like _Educa
 
 “Specialization” does not tend to be capitalized when describing the formal name of a program (“Master of Science in Marketing with a specialization in Marketing Analytics”).
 
-See also: [academic degrees](../academic-degrees), [Educational Specialist](../educational-specialist)
+See also: [academic degrees]({{ site.baseurl }}{% link _entries/academic-degrees.md %}), [Educational Specialist]({{ site.baseurl }}{% link _entries/educational-specialist.md %})

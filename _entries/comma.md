@@ -28,6 +28,6 @@ Do not use a comma when the subject of two clauses is not repeated in the second
 ### With full dates
  When a phrase refers to a month, day and year, set off the year with a comma: _February 14, 2030, is the target date_.[^10]
 
-See also: [dates](../dates).
+See also: [dates]({{ site.baseurl }}{% link _entries/dates.md %}).
 
 [^10]: [https://www.apstylebook.com/ap\_stylebook/comma-2](https://www.apstylebook.com/ap_stylebook/comma-2)

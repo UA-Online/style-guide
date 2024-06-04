@@ -21,7 +21,7 @@ title_separator          : #
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : #
 description              : # "This is a demo of the style guide. v0.0.2."
-url                      : "https://ua-online.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ua-online.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/style-guide" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -216,7 +216,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -279,10 +279,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _pages
+  # _entries
   - scope:
-      path: "_pages"
-      type: pages
+      path: "_entries"
+      # type: pages
     values:
       layout: single
       author_profile: false
@@ -290,7 +290,7 @@ defaults:
       comments: # true
       share: false
       related: false
-      toc: true
+      toc: true # in-page sidebar
       toc_label: "Contents"
       toc_icon: false # "cog"
       toc_sticky: true
@@ -299,10 +299,9 @@ defaults:
 
 # Collections*
 collections:
-   pages:
+   entries:
      output: true
-     permalink: /:collection/:path/
-     title: Pages
+     permalink: /:collection/:path/     
 
 # defaults:
     # _docs
