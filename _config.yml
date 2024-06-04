@@ -290,7 +290,7 @@ defaults:
       comments: # true
       share: false
       related: false
-      toc: true
+      toc: true # in-page sidebar
       toc_label: "Contents"
       toc_icon: false # "cog"
       toc_sticky: true
@@ -301,8 +301,8 @@ defaults:
 collections:
    pages:
      output: true
-     permalink: /:collection/:path/
-     title: Pages
+     title: Site Index
+     permalink: /:collection/:path/     
 
 # defaults:
     # _docs
