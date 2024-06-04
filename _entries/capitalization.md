@@ -13,7 +13,7 @@ Do not capitalize the common names of semesters, terms, academic sessions or per
 ### Compositions
  Capitalize the principal words in the names of books, movies, poems, songs, radio and television programs, works of art, etc.[^7]
 
-See also: [academic titles](../academic-titles); [directions, regions](../directions-regions) (for north, south, etc.); [headings](../headings).
+See also: [academic titles]({{ site.baseurl }}{% link _entries/academic-titles.md %}); [directions, regions]({{ site.baseurl }}{% link _entries/directions-regions.md %}) (for north, south, etc.); [headings]({{ site.baseurl }}{% link _entries/headings.md %}).
 
 [^6]: Strategic Communications
 
