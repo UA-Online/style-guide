@@ -37,6 +37,6 @@ Use figures for SAT, ACT and similar test scores. Use figures in constructions s
 ### With parenthesis
  In general, a spelled-out number does not also need the figure in parentheses. In cases where this is necessary (for instance, customary on Program Development program plans), numbers one through nine (or any spelled-out number that starts a sentence) can be followed by the figure in parenthesis if the number is being compared: _We enrolled eight (8) students in the fall, a 33 percent increase from six (6) students in the spring,_ but _We held one information session in the fall._
 
-See also: [ages](../ages), [credit hours](../credit-hours), [time](../time).
+See also: [ages]({{ site.baseurl }}{% link _entries/ages.md %}), [credit hours]({{ site.baseurl }}{% link _entries/credit-hours.md %}), [time]({{ site.baseurl }}{% link _entries/time.md %}).
 
 [^16]: [https://www.apstylebook.com/ap\_stylebook/numerals](https://www.apstylebook.com/ap_stylebook/numerals); Strategic Communications. For ranges, these guidelines differ from AP per this AP “Ask the Editor” discussion: [https://www.apstylebook.com/ask\_the\_editors/32472](https://www.apstylebook.com/ask_the_editors/32472).

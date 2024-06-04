@@ -38,6 +38,6 @@ Use numbered or lettered lists (numbered preferred) when referring back to an it
 
 If the text will need to refer back to items in a run-in list, use letters or numbers enclosed in parentheses. Use commas or semicolons to separate these items exactly as if there were no numbers or letters. _They decided to (1) introduce a new program, (2) advertise it and (3) enroll students._
 
-See also: [colon](../colon).
+See also: [colon]({{ site.baseurl }}{% link _entries/colon.md %}).
 
 [^15]: Per previous Strategic Communications guidelines and M&R custom.

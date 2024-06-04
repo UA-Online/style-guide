@@ -12,7 +12,7 @@ A colon should not be used before a list of items that completes the sentence as
 *   Incorrect: The five courses she took were: MATH 125, EN 102, IE 203, COM 203 and ARH 151.
 *   Correct: The five courses she took were MATH 125, EN 102, IE 203, COM 203 and ARH 151.[^9]
 
-See also: [lists](../lists).
+See also: [lists]({{ site.baseurl }}{% link _entries/lists.md %}).
 
 [^8]: [https://www.apstylebook.com/ap\_stylebook/colon-2](https://www.apstylebook.com/ap_stylebook/colon-2)
 
