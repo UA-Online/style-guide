@@ -4,7 +4,7 @@ layout: none
 
 var store = [
  {%- if site.lunr.search_within_pages -%},
-  {%- assign pages = site.pages | where_exp:'doc','doc.search != false' -%}
+  {%- assign pages = site.entries | where_exp:'doc','doc.search != false' -%}
   {%- for doc in pages -%}
     {%- if forloop.last -%}
       {%- assign l = true -%}
