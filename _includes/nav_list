@@ -27,7 +27,7 @@
     <li>
       <span class="nav__sub-title">{{ page.section }}</span>
       <ul>
-        {% for doc in site.pages %}
+        {% for doc in site.entries %}
         {% if doc.section == page.section %}
         <li><a href="{{ doc.url | relative_url }}" {% if doc.url==page.url %} class="active" {% endif %}>{{ doc.title
             }}</a></li>
