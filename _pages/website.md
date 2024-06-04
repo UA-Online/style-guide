@@ -13,7 +13,6 @@ section: References and Resources
 |Tuition|online.ua.edu/tuition|
 |Scholarships|online.ua.edu/scholarships|
 |Cost[^83]|online.ua.edu/cost|
-|GoArmy Ed|online.ua.edu/portal|
 
 [^82]: The “app” and “gradapp” URLs resolve to the same page, [https://online.ua.edu/getting-started/how-to-apply](https://online.ua.edu/getting-started/how-to-apply).
 
