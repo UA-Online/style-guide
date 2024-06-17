@@ -10,7 +10,7 @@ EdS is the abbreviation for Educational Specialist (not education specialist).
 
 Doctoral is an adjective; doctorate is a noun. Refer to the degree as a doctorate or a doctoral degree, not a doctorate degree.
 
-Do not use periods in degree name abbreviations unless specifically mandated by the department (M&R exceptions: _J.M., LL.M._).[^25]
+Do not use periods in degree name abbreviations unless specifically mandated by the department.[^25]
 
 M&R always capitalizes majors/specialties in degree names: _Master of Science in Aerospace Engineering and Mechanics, master’s in Aerospace Engineering and Mechanics._[^26]
 
