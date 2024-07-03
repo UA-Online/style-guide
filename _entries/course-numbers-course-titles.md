@@ -1,6 +1,6 @@
 ---
 title: course numbers, course titles
-section: Marketing and Recruitment Customs
+section: Marketing Customs
 ---
 # course numbers, course titles
 

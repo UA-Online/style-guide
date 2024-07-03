@@ -1,6 +1,6 @@
 ---
 title: free
-section: Marketing and Recruitment Customs
+section: Marketing Customs
 ---
 # free
 

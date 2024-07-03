@@ -1,6 +1,6 @@
 ---
 title: program designations — online, primarily online, blended
-section: Marketing and Recruitment Customs
+section: Marketing Customs
 ---
 # program designations — online, primarily online, blended
 

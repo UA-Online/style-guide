@@ -1,6 +1,6 @@
 ---
 title: certificates, forms
-section: Marketing and Recruitment Customs
+section: Marketing Customs
 ---
 # certificates, forms
 

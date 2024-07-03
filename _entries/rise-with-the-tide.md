@@ -1,6 +1,6 @@
 ---
 title: rise with the Tide, Rise With the Tide
-section: Marketing and Recruitment Customs
+section: Marketing Customs
 ---
 # rise with the Tide, Rise With the Tide
 
