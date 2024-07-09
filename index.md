@@ -10,9 +10,9 @@ share: false
 related: false
 ---
 
-# Marketing and Recruitment Style Guide
+# Marketing Style Guide
 
-Entries in this style guide are copied or adapted from The University of Alabama Strategic Communications Editorial Style Guide (Summer 2017 and subsequent versions)[^1] and the Associated Press Stylebook, and modified based on Marketing and Recruitment house style. Many examples in this guide are directly from those sources. The AP Stylebook also references Webster’s New World College Dictionary.
+Entries in this style guide are copied or adapted from The University of Alabama Strategic Communications Editorial Style Guide (Summer 2017 and subsequent versions)[^1] and the Associated Press Stylebook, and modified based on Marketing house style. Many examples in this guide are directly from those sources. The AP Stylebook also references Webster’s New World College Dictionary.
 
 Entry sources are cited when available. Content on the AP Stylebook website may be viewed through [UA Libraries](http://libdata.lib.ua.edu/login?url=https://www.apstylebook.com/ua_edu).
 
@@ -43,7 +43,7 @@ Entry sources are cited when available. Content on the AP Stylebook website may 
 {% endfor %}
 </ul>
 
-{% assign filtered_posts = site.entries | where: 'section', 'Marketing and Recruitment Customs' %}
+{% assign filtered_posts = site.entries | where: 'section', 'Marketing Customs' %}
 ### {{filtered_posts.first.section}}
 <ul class="index_toc">
 {% for entry in filtered_posts %}

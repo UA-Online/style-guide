@@ -1,6 +1,6 @@
 ---
 title: credit hours
-section: Marketing and Recruitment Customs
+section: Marketing Customs
 ---
 # credit hours
 

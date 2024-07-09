@@ -1,6 +1,6 @@
 ---
 title: divisions
-section: Marketing and Recruitment Customs
+section: Marketing Customs
 ---
 # divisions
 
