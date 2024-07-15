@@ -1,7 +1,17 @@
+<div class="feature__item">
+<div class="archive__item">
+<div class="archive__item-body">
 {% assign filtered_posts = site.entries | where: 'section', {{include.section}} %}
-### {{filtered_posts.first.section}} ###
+<div class="archive__item-title" markdown="1">
+### {{filtered_posts.first.section}}
+</div>
+<div class="archive__item-excerpt" markdown="1">
 <ul class="index_toc">
 {% for entry in filtered_posts %}
-  <li><a href="{{ entry.url | relative_url }}">{{ entry.title}}</a></li>
+<li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></li>
 {% endfor %}
 </ul>
+</div>
+</div>
+</div>
+</div>

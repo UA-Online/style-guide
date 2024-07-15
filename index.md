@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 toc: false
 sidebar: 
    nav: "index"
@@ -26,10 +27,16 @@ Entry sources are cited when available. Content on the AP Stylebook website may 
 {% endfor %}
 </ul>
 
-{% include section_toc.html section="Grammar/Punctuation" %}
+## Feature Wrapper
 
-{% include section_toc.html section="Word Choice" %}
+<div class="feature__wrapper" markdown="1">
+   
+   {% include section_toc.html section="References and Resources" %}
+   
+   {% include section_toc.html section="Grammar/Punctuation" %}
+   
+   {% include section_toc.html section="Word Choice" %}
+   
+   {% include section_toc.html section="Marketing Customs" %}
 
-{% include section_toc.html section="Marketing Customs" %}
-
-{% include section_toc.html section="References and Resources" %}
+</div>
