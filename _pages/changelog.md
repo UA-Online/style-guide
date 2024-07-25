@@ -12,11 +12,11 @@ sidebar: nav
 
 ## 2024.7
 
-### What's Changed
+**What's Changed**
 
 AP Stylebook now uses Merriam-Webster as their official dictionary, replacing Webster's New World College Dictionary. References in Marketing Style Guide to be updated.
 
-#### Documents
+**Documents**
 - Doc: abbreviations: modified
 - Doc: academic degrees: removed outdated example
 - Doc: academic honors: added
@@ -37,7 +37,7 @@ AP Stylebook now uses Merriam-Webster as their official dictionary, replacing We
 - Doc: website: modified
 - Doc: year-round: update dictionary reference
 
-#### New Pages
+**New Pages**
 - academic honors
 - Black Belt
 - Fourth of July
