@@ -5,5 +5,28 @@ search: false
 
 @charset "utf-8";
 
+$global-font-family: proxima-nova, sans-serif;
+$sans-serif: $global-font-family;
+$sans-serif-narrow: $global-font-family;
+$header-font-family: $global-font-family;
+
+
+.ua_minerva a.ua_title-bar_name {
+    font-size: var(--ua_font-size--medium, 1.5rem);
+    line-height: var(--ua_line-height--medium, 2rem);
+    font-weight: var(--ua_weight--semibold, 600);
+    color: var(--ua_color-text--default, #35363b);
+    text-decoration: none;
+    display: block
+  }
+  
+  .ua_minerva a.ua_title-bar_name:focus,
+  .ua_minerva a.ua_title-bar_name:hover,
+  .ua_minerva a.ua_title-bar_subtitle:focus,
+  .ua_minerva a.ua_title-bar_subtitle:hover {
+      text-decoration: underline;
+      text-decoration-thickness: 2px
+  }
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

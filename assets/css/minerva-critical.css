@@ -128,36 +128,3 @@
 }
 /* !SECTION Brand Footer */
 /* !SECTION Brand UI */
-
-/* SELECT ADDITIONAL
-================================================================= */
-
-body, h1, h2, h3, h4, h5, h6 {
-    font-family: var(--ua_font--body, proxima-nova, sans-serif);
-}
-
-.ua_minerva {
-    font-size: var(--ua_font-size--normal, 1.25rem);
-    line-height: var(--ua_line-height--normal, 2rem);
-    font-family: var(--ua_font--body, proxima-nova, sans-serif);
-    color: var(--ua_color-text--default, #35363b);
-    max-width: 100%;
-    overflow-x: clip
-}
-
-.ua_minerva a.ua_title-bar_name {
-  font-size: var(--ua_font-size--medium, 1.5rem);
-  line-height: var(--ua_line-height--medium, 2rem);
-  font-weight: var(--ua_weight--semibold, 600);
-  color: var(--ua_color-text--default, #35363b);
-  text-decoration: none;
-  display: block
-}
-
-.ua_minerva a.ua_title-bar_name:focus,
-.ua_minerva a.ua_title-bar_name:hover,
-.ua_minerva a.ua_title-bar_subtitle:focus,
-.ua_minerva a.ua_title-bar_subtitle:hover {
-    text-decoration: underline;
-    text-decoration-thickness: 2px
-}
