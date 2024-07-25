@@ -1,0 +1,7 @@
+{% assign filtered_posts = site.entries | where: 'section', {{include.section}} %}
+### {{filtered_posts.first.section}} ###
+<ul class="index_toc">
+{% for entry in filtered_posts %}
+  <li><a href="{{ entry.url | relative_url }}">{{ entry.title}}</a></li>
+{% endfor %}
+</ul>
