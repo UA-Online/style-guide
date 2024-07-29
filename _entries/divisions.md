@@ -2,8 +2,6 @@
 title: divisions
 section: Marketing Customs
 ---
-# divisions
-
 Below are the official names of colleges as recognized by Strategic Communications.[^80] The abbreviations for the colleges are mostly for internal use; consult a marketing or program manager before using a college abbreviation in external materials.
 
 *   Capstone College of Nursing, CCN

@@ -2,8 +2,6 @@
 title: United States, U.S.
 section: Word Choice
 ---
-# United States, U.S.
-
 The abbreviation U.S. is spelled with periods, even as other abbreviations (_UA, AP_) are not.[^72]
 
 See also: [abbreviations]({{ site.baseurl}}{% link _entries/abbreviations-acronyms.md %}).

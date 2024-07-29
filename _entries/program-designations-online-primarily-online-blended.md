@@ -2,8 +2,6 @@
 title: program designations — online, primarily online, blended
 section: Marketing Customs
 ---
-# program designations — online, primarily online, blended
-
 “Distance learning program” is written without hyphens.
 
 Adhere to the following designations when referring to degree programs.[^81]

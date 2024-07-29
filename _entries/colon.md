@@ -2,8 +2,6 @@
 title: colon (:)
 section: Grammar/Punctuation
 ---
-# colon (:)
-
 Capitalize the first word after a colon only if it is a proper noun or the start of a complete sentence: _He promised this: The surgery would repair the lower intestine_, but _There were three dessert choices: cake, pie and Jell-O._[^8]
 
 ## Lists

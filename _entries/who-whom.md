@@ -2,8 +2,6 @@
 title: who, whom
 section: Word Choice
 ---
-# who, whom
-
 Use “who” instead of “that” when referring to living things.
 
 *   Correct: The person who brought the coffee …

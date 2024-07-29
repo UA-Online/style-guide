@@ -2,8 +2,6 @@
 title: geotargeting
 section: Word Choice
 ---
-# geotargeting
-
 No hyphen for most words beginning with “geo-.”[^50]
 
 

@@ -2,8 +2,6 @@
 title: lists
 section: Grammar/Punctuation
 ---
-# lists
-
 Vertical lists may be bulleted or numbered/lettered.
 
 When bulleted items are sentences, capitalize the first letter of each sentence and use appropriate ending punctuation. When bulleted items consist of single words or phrases, lowercase the first letter and do not use punctuation.

@@ -2,8 +2,6 @@
 title: numbers, numerals
 section: Grammar/Punctuation
 ---
-# numbers, numerals
-
 In general, spell out one through nine and use figures for 10 or above.
 
 Exceptions: Use figures for credit hours, ages and whenever preceding a unit of measurement; always spell out numbers at the start of a sentence (except for years).

@@ -2,8 +2,6 @@
 title: certificates, forms
 section: Marketing Customs
 ---
-# certificates, forms
-
 General terms used to describe forms should not be capitalized: _application for admission, financial aid forms_.
 
 When a number is part of a form’s title, use the numerical figure and omit any punctuation:

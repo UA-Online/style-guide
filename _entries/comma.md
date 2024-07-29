@@ -2,8 +2,6 @@
 title: comma (,)
 section: Grammar/Punctuation
 ---
-# comma (,)
-
 The University of Alabama follows Associated Press style, which does not use the serial or Oxford comma (omit the comma before the conjunction in most sentences): _The flag is red, white and blue. They would nominate Nick, Terry or Paul._
 
 Include a final comma in a simple series if omitting it could make the meaning unclear. _At the graduation reception I met my professors, Big Al and President Bell_ (where Big Al and President Bell could be interpreted as the professors) versus _At the graduation reception, I met my professors, Big Al, and President Bell._

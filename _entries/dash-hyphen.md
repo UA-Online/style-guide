@@ -2,8 +2,6 @@
 title: dash, hyphen
 section: Grammar/Punctuation
 ---
-# dash, hyphen
-
 A dash is used for a break in a sentence or to represent omitted words ( — or – ); a dash is formed using special keystrokes.
 
 A hyphen is used to join words ( - ); it is smaller and found as a regular button on the keyboard.

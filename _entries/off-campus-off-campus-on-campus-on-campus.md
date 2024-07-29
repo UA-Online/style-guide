@@ -2,8 +2,6 @@
 title: off campus, off-campus, on campus, on-campus
 section: Word Choice
 ---
-# off campus, off-campus, on campus, on-campus
-
 Hyphenate when used as a modifier but not when “campus” is used as a noun.
 
 *   At UA, on-campus housing is plentiful and convenient.

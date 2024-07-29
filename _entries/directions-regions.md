@@ -2,8 +2,6 @@
 title: directions, regions
 section: Word Choice
 ---
-# directions, regions
-
 Lowercase “north,” “south,” “northeast,” “southern,” etc., when they indicate compass direction; capitalize these words when they designate widely known regions.
 
 _The cold front is moving east. A storm system that developed in the Midwest is spreading eastward._ _It will bring showers to the East Coast by morning and to the entire Northeast by late in the day._ _She has a Southern accent. This scholarship is for students from south Alabama._

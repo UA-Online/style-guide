@@ -2,8 +2,6 @@
 title: state names
 section: Grammar/Punctuation
 ---
-# state names
-
 In most cases, state names should be spelled out, except for space reasons. When used in the middle of a sentence, place one comma between a city and state name and another comma after the state name: _He was traveling from Nashville, Tennessee, to Austin, Texas._ _Nick said Tuscaloosa, Alabama, was his home._
 
 These states/districts are not abbreviated in text: Alaska, Hawaii, Idaho, Iowa, Maine, Ohio, Texas and Utah.[^19] AP guidance says to use “District of Columbia” but “Washington, D.C.,” (with periods) is acceptable. When a state name needs to be abbreviated outside of a postal address, use the state abbreviation rather than the postal abbreviation:
