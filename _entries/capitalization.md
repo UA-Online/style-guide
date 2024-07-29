@@ -10,7 +10,7 @@ Do not capitalize the names of disciplines such as history, art, etc., unless de
 
 Do not capitalize the common names of semesters, terms, academic sessions or periods, such as _fall semester, registration_, _orientation_ and _commencement_. If a semester or term is followed by a specific year, use capitalization: _Fall Semester 2024; the program began in Spring 2015_.[^6]
 
-### Compositions
+## Compositions
  Capitalize the principal words in the names of books, movies, poems, songs, radio and television programs, works of art, etc.[^7]
 
 See also: [academic titles]({{ site.baseurl }}{% link _entries/academic-titles.md %}); [directions, regions]({{ site.baseurl }}{% link _entries/directions-regions.md %}) (for north, south, etc.); [headings]({{ site.baseurl }}{% link _entries/headings.md %}).
