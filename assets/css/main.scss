@@ -5,5 +5,14 @@ search: false
 
 @charset "utf-8";
 
+
+ul.index_toc {
+    font-size:18px;
+ }
+
+ ul.index_toc li {
+    margin-bottom:0px;
+ }
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
