@@ -20,6 +20,8 @@ gem "minimal-mistakes-jekyll"
 
 gem "jekyll-remote-theme"
 
+gem "jekyll-extract-element"
+
 # gem "rails"
 
 

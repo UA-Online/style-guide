@@ -1,0 +1,51 @@
+/* ==========================================================================
+   Minerva skin
+   ========================================================================== */
+
+/* Fonts */
+$global-font-family: proxima-nova, sans-serif;
+$sans-serif: $global-font-family;
+$sans-serif-narrow: $global-font-family;
+$header-font-family: $global-font-family;
+
+/* Links */
+$link-color: #9E1B32 !default;
+$link-color-visited: $link-color;
+$link-color-hover: #821E2E !default;
+
+/* Footnotes */
+$footnote-link-color: mix(#fff, #7a8288, 25%) !default;
+
+a.footnote {
+  &:visited {
+    color: $footnote-link-color;
+  }
+
+  &:hover {
+    color: inherit;
+  }
+}
+
+/* Masthead */
+$masthead-link-color-hover: inherit;
+
+/* Footer */
+$footer-background-color: #9E1B32 !default;
+
+/* Custom Styles */
+.ua_minerva a.ua_title-bar_name {
+  font-size: var(--ua_font-size--medium, 1.5rem);
+  line-height: var(--ua_line-height--medium, 2rem);
+  font-weight: var(--ua_weight--semibold, 600);
+  color: var(--ua_color-text--default, #35363b);
+  text-decoration: none;
+  display: block
+}
+
+.ua_minerva a.ua_title-bar_name:focus,
+.ua_minerva a.ua_title-bar_name:hover,
+.ua_minerva a.ua_title-bar_subtitle:focus,
+.ua_minerva a.ua_title-bar_subtitle:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px
+}
