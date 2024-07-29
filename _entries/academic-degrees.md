@@ -12,10 +12,10 @@ Doctoral is an adjective; doctorate is a noun. Refer to the degree as a doctorat
 
 Do not use periods in degree name abbreviations unless specifically mandated by the department.[^25]
 
-M&R always capitalizes majors/specialties in degree names: _Master of Science in Aerospace Engineering and Mechanics, master’s in Aerospace Engineering and Mechanics._[^26]
+Marketing always capitalizes majors/specialties in degree names: _Master of Science in Aerospace Engineering and Mechanics, master’s in Aerospace Engineering and Mechanics._[^26]
 
 See also: [Educational Specialist]({{ site.baseurl }}{% link _entries/educational-specialist.md %}), [specialist, specialization]({{ site.baseurl }}{% link _entries/specialist-specialization.md %})
 
 [^25]: [https://www.apstylebook.com/ap\_stylebook/academic-degrees](https://www.apstylebook.com/ap_stylebook/academic-degrees) and Strategic Communications ([https://strategiccommunications.ua.edu/standards/editorial-style#acadegrees](https://strategiccommunications.ua.edu/standards/editorial-style#acadegrees)). We do not use periods in degree abbreviations per Strategic Communications, though the AP Stylebook disagrees.
 
-[^26]: Capitalizing the specialty in regard to the degree program is M&R custom, in contrast to AP guidance. See [https://www.apstylebook.com/ask\_the\_editors/4496](https://www.apstylebook.com/ask_the_editors/4496) and [https://www.apstylebook.com/ask\_the\_editors/28564](https://www.apstylebook.com/ask_the_editors/28564).
+[^26]: Capitalizing the specialty in regard to the degree program is Marketing custom, in contrast to AP guidance. See [https://www.apstylebook.com/ask\_the\_editors/4496](https://www.apstylebook.com/ask_the_editors/4496) and [https://www.apstylebook.com/ask\_the\_editors/28564](https://www.apstylebook.com/ask_the_editors/28564).

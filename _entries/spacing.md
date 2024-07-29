@@ -4,5 +4,5 @@ section: Grammar/Punctuation
 ---
 # spacing
 
-M&R custom is to use one space between sentences.
+Marketing custom is to use one space between sentences.
 
