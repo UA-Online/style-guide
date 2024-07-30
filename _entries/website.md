@@ -2,8 +2,6 @@
 title: Website
 section: References and Resources
 ---
-# Website
-
 | | |
 | -- | -- |
 |Main|online.ua.edu|

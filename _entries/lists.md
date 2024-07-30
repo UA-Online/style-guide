@@ -2,8 +2,6 @@
 title: lists
 section: Grammar/Punctuation
 ---
-# lists
-
 Vertical lists may be bulleted or numbered/lettered.
 
 When bulleted items are sentences, capitalize the first letter of each sentence and use appropriate ending punctuation. When bulleted items consist of single words or phrases, lowercase the first letter and do not use punctuation.
@@ -30,7 +28,7 @@ Use numbered or lettered lists (numbered preferred) when referring back to an it
 2.  _Pay the application fee through the online system._
 3.  _Upload your completed application and select “Submit.”_
 
-### Run-in list
+## Run-in list
  A run-in list usually does not need a colon, especially if the list items are part of the sentence.
 
 *   Incorrect: _Positions include: quarterback, running back and lineman_.

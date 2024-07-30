@@ -2,8 +2,6 @@
 title: URLs
 section: Grammar/Punctuation
 ---
-# URLs
-
 It is acceptable to use capital letters in the beginning (host) of a URL,[^23] but capital letters cannot be used after the first slash (the path). Be consistent in capitalizing URLs in a document; if one URL contains an initial capital letter, consider if the rest of the URLs in the document should have the same.
 
 *   Correct: Visit online.ua.edu/elemspecialist

@@ -2,8 +2,6 @@
 title: asterisk (*)
 section: Grammar/Punctuation
 ---
-# asterisk (*)
-
 An asterisk commonly indicates the presence of a note following a set of paragraphs or a table.\*
 
 \*For example, this would be a note that would explain something about the text above.

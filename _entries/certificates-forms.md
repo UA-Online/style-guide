@@ -2,8 +2,6 @@
 title: certificates, forms
 section: Marketing Customs
 ---
-# certificates, forms
-
 General terms used to describe forms should not be capitalized: _application for admission, financial aid forms_.
 
 When a number is part of a form’s title, use the numerical figure and omit any punctuation:
@@ -15,7 +13,7 @@ When a number is part of a form’s title, use the numerical figure and omit any
 
 In the title of a form, capitalize the first word and all nouns, pronouns, adjectives, verbs and adverbs: _Form I-20AB Certificate of Eligibility, IAP-66 Certificate of Eligibility, Free Application for Federal Student Aid._
 
-### Certificate/certification
+## Certificate/certification
 If the formal name (“A,” Class A, etc.) is included, then “certificate” is capitalized (_Class AA Certificate_). If both the formal name and program area are included, then “certification” is capitalized (_Alabama Class A Certification in School Psychometry_), or otherwise “certification” is lowercase (_Class AA certification_). In a case where the formal name and program area are included and “certification” might be uppercase, such as “Alabama Class A Certification in School Psychometry,” consider if “Certificate” can be substituted (_Alabama Class A Certificate in School Psychometry_).
 
 Quotation marks are not used with the class of the certification unless the letter stands on its own.
