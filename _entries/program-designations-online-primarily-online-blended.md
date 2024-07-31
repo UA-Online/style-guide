@@ -15,4 +15,4 @@ Roughly 80-99% of the program’s instruction is available using online courses.
 ## Blended program
 Roughly 50-79% of the program’s instruction is delivered through online courses. The program requires some courses to have components that are completed face-to-face and requires more than five in-person events each semester to complete organized activities such as labs or experiential learning.
 
-[^81]: Adapted from online source by M&R associate director, February 2019.
+[^81]: Adapted from online source by Marketing associate director, February 2019.

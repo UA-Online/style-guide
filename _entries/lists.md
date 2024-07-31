@@ -38,4 +38,4 @@ If the text will need to refer back to items in a run-in list, use letters or nu
 
 See also: [colon]({{ site.baseurl }}{% link _entries/colon.md %}).
 
-[^15]: Per previous Strategic Communications guidelines and M&R custom.
+[^15]: Per previous Strategic Communications guidelines and Marketing custom.
