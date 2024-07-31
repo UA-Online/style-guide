@@ -5,14 +5,29 @@ search: false
 
 @charset "utf-8";
 
+footer div.page__footer-copyright {
+   display: none;
+}
 
-ul.index_toc {
-    font-size:18px;
- }
+.greedy-nav a.ua_title-bar_name {
+   margin: 0;
+}
 
- ul.index_toc li {
-    margin-bottom:0px;
- }
+section.page__content:not(:has(h2)) {
+   
+   aside.sidebar__right nav.toc {
+      display: none;
+   }
+}
+
+.toc__menu li a {
+   font-weight: normal;
+}
+
+ul.index_toc li {
+   font-size: 0.875rem;
+   margin-bottom: 0px;
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

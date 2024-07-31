@@ -2,8 +2,6 @@
 title: PDF
 section: Word Choice
 ---
-# PDF
-
 All caps in almost all uses (except when writing out a filename).[^62]
 
 

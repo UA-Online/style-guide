@@ -1,4 +1,5 @@
 ---
+title: Marketing Style Guide
 layout: single
 toc: false
 sidebar: 
@@ -9,9 +10,6 @@ comments: false
 share: false
 related: false
 ---
-
-# Marketing Style Guide
-
 Entries in this style guide are copied or adapted from The University of Alabama Strategic Communications Editorial Style Guide (Summer 2017 and subsequent versions)[^1] and the Associated Press Stylebook, and modified based on Marketing house style. Many examples in this guide are directly from those sources. The AP Stylebook also references the Merriam-Webster dictionary.[^2]
 
 Entry sources are cited when available. Content on the AP Stylebook website may be viewed through [UA Libraries](http://libdata.lib.ua.edu/login?url=https://www.apstylebook.com/ua_edu).

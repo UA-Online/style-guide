@@ -2,8 +2,6 @@
 title: certification, concentration, focus, specialization
 section: Grammar/Punctuation
 ---
-# certification, concentration, focus, specialization
-
 For documents like the annual UA Online Guide brochure, there is different punctuation for listing certificates, concentrations, focuses and specializations. Focuses get parenthesis, specializations and concentrations get “specialization/concentration in” (set off by comma) and certifications are just set off by commas after the degree name and major. Use these standards as a guide, though usage may differ depending on the document.
 
 *   Certification: MA in Educational Leadership, Instructional Leadership P-12 Certification

@@ -2,8 +2,6 @@
 title: headings
 section: Grammar/Punctuation
 ---
-# headings
-
 When writing headings in “headline case” or “title case” (most words capitalized), follow these guidelines:
 
 *   Capitalize the first and last words of the heading.
