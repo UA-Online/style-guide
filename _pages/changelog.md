@@ -8,8 +8,6 @@ toc_icon: false # "cog"
 toc_sticky: true
 sidebar: nav
 ---
-# Changelog
-
 ## 2024.7
 
 **What's Changed**
@@ -20,21 +18,24 @@ AP Stylebook now uses Merriam-Webster as their official dictionary, replacing We
 - Doc: abbreviations: modified
 - Doc: academic degrees: removed outdated example
 - Doc: academic honors: added
-- Doc: Black Belt: added entry
+- Doc: Black Belt: added
 - Doc: dates: added cross-reference to “months”
-- Doc: Fourth of July: added entry
+- Doc: Fourth of July: added
 - Doc: head start: added
-- Doc: makeup, make up: added/updated entry
+- Doc: index: update references to Marketing and Recruitment, M&R
+- Doc: makeup, make up: added/updated
 - Doc: months: added cross-reference to “dates”
 - Doc: months: fixed punctuation
 - Doc: non-: added example
 - Doc: numbers: fixed heading
-- Doc: renown: added entry
-- Doc: seasons: added entry
+- Doc: renown: added
+- Doc: seasons: added
+- Doc: statewide: added
+- Doc: Summer On Campus: added
 - Doc: United States: modified
 - Doc: University of Alabama: added guidance for standalone “university”
-- Doc: update references to Marketing and Recruitment
 - Doc: website: modified
+- Doc: well-being: added
 - Doc: year-round: update dictionary reference
 
 **New Pages**
@@ -45,5 +46,8 @@ AP Stylebook now uses Merriam-Webster as their official dictionary, replacing We
 - makeup, make up
 - renown
 - seasons
+- Summer On Campus
+- statewide
+- well-being
 
 **Full Changelog**: [https://github.com/UA-Online/style-guide/compare/v1.1.1...2024.7](https://github.com/UA-Online/style-guide/compare/v1.1.1...2024.7)
