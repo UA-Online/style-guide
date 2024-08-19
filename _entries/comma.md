@@ -18,7 +18,7 @@ Include a final comma in a simple series if omitting it could make the meaning u
 ## With conjunctions
  Use a comma when “and,” “but” or “for” links two clauses that could be their own sentences: _Alabama is a great school, and I will be proud to graduate from there._ The comma can be dropped if the clauses are short: _We went to Lakeside and I ate ice cream._
 
-Do not use a comma when the subject of two clauses is not repeated in the second clause: _We went to Coleman Coliseum and saw the players. We went to Coleman Coliseum, and we saw the players._
+Do not use a comma when the subject of two clauses is not repeated in the second clause: _We went to Coleman Coliseum and saw the players_ (clauses share the subject "We," so no comma is used). _We went to Coleman Coliseum, and we saw the players_ (each clause has its own subject, "We" and "we," so a comma is used).
 
 ## With equal adjectives
  Use commas to separate equal adjectives where “and” could be substituted instead: _a distance, accredited business program_ (a program that’s both distance and accredited). Do not use a comma when the adjectives are not equal or one adjective modifies the other: _a weekend distance program_ (distance programs only offered on the weekends).
