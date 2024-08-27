@@ -10,6 +10,9 @@ Doctoral is an adjective; doctorate is a noun. Refer to the degree as a doctorat
 
 Do not use periods in degree name abbreviations unless specifically mandated by the department.[^25]
 
+* Correct: MA, EdS, etc.
+* Incorrect: M.A., Ed.S., etc.
+
 Marketing always capitalizes majors/specialties in degree names: _Master of Science in Aerospace Engineering and Mechanics, master’s in Aerospace Engineering and Mechanics._[^26]
 
 See also: [Educational Specialist]({{ site.baseurl }}{% link _entries/educational-specialist.md %}), [specialist, specialization]({{ site.baseurl }}{% link _entries/specialist-specialization.md %})
