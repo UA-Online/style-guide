@@ -8,9 +8,28 @@ toc_icon: false # "cog"
 toc_sticky: true
 sidebar: nav
 ---
+## 2024.8
+
+### What's Changed 
+
+**Documents**
+- Doc: academic degrees: added example
+- Doc: comma: updated example
+- Doc: ellipsis: added
+- Doc: faculty: added
+- Doc: life span: added
+- Doc: longtime, long time: added
+- Doc: time: added time value guidance
+
+**New Pages**
+- ellipsis
+- faculty
+- life span
+- longtime, long time
+
 ## 2024.7
 
-**What's Changed**
+### What's Changed
 
 AP Stylebook now uses Merriam-Webster as their official dictionary, replacing Webster's New World College Dictionary. References in Marketing Style Guide to be updated.
 
