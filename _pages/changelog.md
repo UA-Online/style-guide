@@ -27,6 +27,8 @@ sidebar: nav
 - life span
 - longtime, long time
 
+**Full Changelog:** [2024.7...2024.8](https://github.com/UA-Online/style-guide/compare/2024.7...2024.8)
+
 ## 2024.7
 
 ### What's Changed
@@ -69,4 +71,4 @@ AP Stylebook now uses Merriam-Webster as their official dictionary, replacing We
 - statewide
 - well-being
 
-**Full Changelog**: [https://github.com/UA-Online/style-guide/compare/v1.1.1...2024.7](https://github.com/UA-Online/style-guide/compare/v1.1.1...2024.7)
+**Full Changelog**: [v1.1.1...2024.7](https://github.com/UA-Online/style-guide/compare/v1.1.1...2024.7)
