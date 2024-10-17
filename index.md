@@ -1,5 +1,5 @@
 ---
-title: Marketing Style Guide
+title: About This Guide
 layout: single
 toc: false
 sidebar: 
