@@ -8,6 +8,23 @@ toc_icon: false # "cog"
 toc_sticky: true
 sidebar: nav
 ---
+## 2024.12
+
+### What's Changed
+
+**Documents**
+- Doc: Capstone, the: added
+- Doc: non-: update example, dictionary reference
+- Doc: telephone numbers: added
+- Doc: time frame: added
+
+**New Pages**
+- Capstone, the
+- telephone numbers
+- time frame
+
+**Full Changelog:** 
+
 ## 2024.8
 
 ### What's Changed 
