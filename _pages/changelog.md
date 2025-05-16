@@ -8,6 +8,16 @@ toc_icon: false # "cog"
 toc_sticky: true
 sidebar: nav
 ---
+## 2025.5
+
+### What's Changed
+
+**Documents**
+- Doc: military titles: added
+
+**New Pages**
+- military titles
+
 ## 2024.12
 
 ### What's Changed
