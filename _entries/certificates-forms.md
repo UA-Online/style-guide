@@ -20,4 +20,6 @@ Quotation marks are not used with the class of the certification unless the lett
 
 _Class AA Certificate, Class AA certification, Class A Professional Certificate, the “A” Certification in School Psychometry, master’s level certificate in special education, Alabama Class B Professional Educator Certificate, Alabama Class A Certificate in School Psychometry, Alabama Class A Certification in School Psychometry, Alabama Class A certification._[^78]
 
+See also: [graduate certificate]({{ site.baseurl }}{% link _entries/graduate-certificate.md %}).
+
 [^78]: Strategic Communications
