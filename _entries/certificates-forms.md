@@ -20,6 +20,4 @@ Quotation marks are not used with the class of the certification unless the lett
 
 _Class AA Certificate, Class AA certification, Class A Professional Certificate, the “A” Certification in School Psychometry, master’s level certificate in special education, Alabama Class B Professional Educator Certificate, Alabama Class A Certificate in School Psychometry, Alabama Class A Certification in School Psychometry, Alabama Class A certification._[^78]
 
-The words “graduate certificate” should always be lowercase (except in headings, etc.), but capitalize the major: _graduate certificate in Conflict Resolution_.
-
 [^78]: Strategic Communications
