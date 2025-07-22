@@ -13,7 +13,10 @@ sidebar: nav
 ### What's changed
 
 **Documents**
+Doc: certificates, forms: extract graduate certificate
 Doc: Fourth of July: fix and update example
+Doc: graduate certificate: added
+
 
 ## 2025.5
 
