@@ -2,9 +2,9 @@
 title: dash, hyphen
 section: Grammar/Punctuation
 ---
-A dash is used for a break in a sentence or to represent omitted words ( — or – ); a dash is formed using special keystrokes.
+A dash is used for a break in a sentence or to represent omitted words ( — or – ); a dash is formed using special keystrokes.
 
-A hyphen is used to join words ( - ); it is smaller and found as a regular button on the keyboard.
+A hyphen is used to join words ( - ); it is smaller and found as a regular button on the keyboard.
 
 ## Dashes
  The “em dash” and “en dash” are types of dashes used for different purposes; they are named for their size (the width of a letter m or letter n respectively). The following table describes how to create an em dash or an en dash on a Windows or Mac computer or in HTML, or acceptable substitutions to use if necessary.
@@ -12,10 +12,10 @@ A hyphen is used to join words ( - ); it is smaller and found as a regular butto
      
 |  |   Windows   |   Mac   |   HTML   |   HTML (alt)   |   Substitution   |
 | --- | --- | --- | --- | --- | --- |
-|   Em dash ( — )   |   Ctrl + Alt + minus   |   Shift + Opt + minus   |   `&mdash;`   |   `&#8212;`   |   \--   |
-|   En dash ( – )   |   Ctrl + minus   |   Opt + minus   |   `&ndash;`   |   `&#8211;`   |   \-   |
+|   Em dash ( — )   |   Ctrl + Alt + minus   |   Shift + Opt + minus   |   `&mdash;`   |   `&#8212;`   |   \--   |
+|   En dash ( – )   |   Ctrl + minus   |   Opt + minus   |   `&ndash;`   |   `&#8211;`   |   \-   |
 
-## Em dash ( — )
+## Em dash ( — )
  Used for emphasis (one em dash) or to indicate a sudden break in thought (a pair of em dashes). Always use spaces around an em dash. Do not use more than one pair of em dashes in a sentence (consider commas and parentheses as alternatives).
 
 *   Correct: I was fine until the last assignment — the final exam.
@@ -24,7 +24,7 @@ A hyphen is used to join words ( - ); it is smaller and found as a regular butto
 
 Use an em dash before a person’s name at the end of a quotation, set off from the name by a space: _“UA Online helped me earn my degree.” — Big Al._[^11]
 
-## En dash ( – )
+## En dash ( – )
  Often used with number ranges (for example, _2009–2010, children ages 1–5_). In this context, the en dash acts as a substitute for the word “to.”
 
 ## Hyphen
