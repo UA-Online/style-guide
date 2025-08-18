@@ -12,8 +12,8 @@ A hyphen is used to join words ( - ); it is smaller and found as a regular butto
      
 |  |   Windows   |   Mac   |   HTML   |   HTML (alt)   |   Substitution   |
 | --- | --- | --- | --- | --- | --- |
-|   Em dash ( — )   |   Ctrl + Alt + minus   |   Shift + Opt + minus   |   &mdash;   |   &#8212;   |   \--   |
-|   En dash ( – )   |   Ctrl + minus   |   Opt + minus   |   &ndash;   |   &#8211;   |   \-   |
+|   Em dash ( — )   |   Ctrl + Alt + minus   |   Shift + Opt + minus   |   `&mdash;`   |   `&#8212;`   |   \--   |
+|   En dash ( – )   |   Ctrl + minus   |   Opt + minus   |   `&ndash;`   |   `&#8211;`   |   \-   |
 
 ## Em dash ( — )
  Used for emphasis (one em dash) or to indicate a sudden break in thought (a pair of em dashes). Always use spaces around an em dash. Do not use more than one pair of em dashes in a sentence (consider commas and parentheses as alternatives).
