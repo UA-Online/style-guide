@@ -14,9 +14,13 @@ sidebar: nav
 
 **Documents**
 Doc: certificates, forms: extract graduate certificate
+Doc: education, educational: added
 Doc: Fourth of July: fix and update example
 Doc: graduate certificate: added
 
+**New Pages**
+- education, educational
+- graduate certificate
 
 ## 2025.5
 
