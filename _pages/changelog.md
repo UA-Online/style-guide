@@ -18,11 +18,13 @@ Doc: Degree Works: added
 Doc: education, educational: added
 Doc: Fourth of July: fix and update example
 Doc: graduate certificate: added
+Doc: toward: added
 
 **New Pages**
 - Degree Works
 - education, educational
 - graduate certificate
+- toward
 
 ## 2025.5
 
