@@ -13,12 +13,13 @@ sidebar: nav
 ### What's changed
 
 **Documents**
-Doc: certificates, forms: extract graduate certificate
-Doc: Degree Works: added
-Doc: education, educational: added
-Doc: Fourth of July: fix and update example
-Doc: graduate certificate: added
-Doc: toward: added
+- Doc: certificates, forms: extract graduate certificate
+- Doc: Degree Works: added
+- Doc: education, educational: added
+- Doc: Fourth of July: fix and update example
+- Doc: graduate certificate: added
+- Doc: non-: updated example
+- Doc: toward: added
 
 **New Pages**
 - Degree Works
