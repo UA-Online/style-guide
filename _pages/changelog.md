@@ -20,12 +20,14 @@ sidebar: nav
 - Doc: graduate certificate: added
 - Doc: non-: updated example
 - Doc: toward: added
+- Doc: Tuscaloosa, T-Town: added
 
 **New Pages**
 - Degree Works
 - education, educational
 - graduate certificate
 - toward
+- Tuscaloosa, T-Town
 
 ## 2025.5
 
