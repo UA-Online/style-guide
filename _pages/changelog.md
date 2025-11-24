@@ -19,6 +19,7 @@ sidebar: nav
 - Doc: Fourth of July: fix and update example
 - Doc: graduate certificate: added
 - Doc: non-: updated example
+- Doc: Supe Store: added
 - Doc: toward: added
 - Doc: Tuscaloosa, T-Town: added
 
@@ -26,6 +27,7 @@ sidebar: nav
 - Degree Works
 - education, educational
 - graduate certificate
+- Supe Store
 - toward
 - Tuscaloosa, T-Town
 
