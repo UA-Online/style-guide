@@ -19,6 +19,7 @@ sidebar: nav
 - Doc: Fourth of July: fix and update example
 - Doc: graduate certificate: added
 - Doc: non-: updated example
+- Doc: seasons: fix and update example
 - Doc: Supe Store: added
 - Doc: toward: added
 - Doc: Tuscaloosa, T-Town: added
