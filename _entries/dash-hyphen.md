@@ -2,9 +2,9 @@
 title: dash, hyphen
 section: Grammar/Punctuation
 ---
-A dash is used for a break in a sentence or to represent omitted words ( — or – ); a dash is formed using special keystrokes.
+A dash is used for a break in a sentence or to represent omitted words ( — or – ). A dash is formed using special keystrokes.
 
-A hyphen is used to join words ( - ); it is smaller and found as a regular button on the keyboard.
+A hyphen is used to join words ( - ). It is smaller and found as a regular button on the keyboard.
 
 ## Dashes
  The “em dash” and “en dash” are types of dashes used for different purposes; they are named for their size (the width of a letter m or letter n respectively). The following table describes how to create an em dash or an en dash on a Windows or Mac computer or in HTML, or acceptable substitutions to use if necessary.
