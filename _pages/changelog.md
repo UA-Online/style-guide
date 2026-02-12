@@ -14,6 +14,7 @@ sidebar: nav
 
 **Documents**
 - Doc: certificates, forms: extract graduate certificate
+- Doc: dash, hyphen: update text
 - Doc: Degree Works: added
 - Doc: education, educational: added
 - Doc: Fourth of July: fix and update example
