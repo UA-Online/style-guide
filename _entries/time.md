@@ -2,7 +2,7 @@
 title: time
 section: Grammar/Punctuation
 ---
-Use figures except for _noon_ and _midnight_. Use periods in a.m. and p.m., and separate them from the numbers with a space. _11 a.m._, _1 p.m._, _3:30 p.m._, _9–11 a.m._, _9 a.m. to 5 p.m._[^1]
+Use figures except for _noon_ and _midnight_. Use periods in a.m. and p.m., and separate them from the numbers with a space. _11 a.m._, _1 p.m._, _3:30 p.m._, _9–11 a.m._, _9 a.m. to 5 p.m._, _8:00 a.m.–noon_.[^1]
 
 For time values, spell out numbers less than 10 standing alone and in modifiers: _I’ll be there in five minutes. The two-minute warning._[^2]
 
