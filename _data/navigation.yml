@@ -11,6 +11,8 @@ index:
         url: "#references-and-resources"
       - title: "Site Index"
         url: "siteindex"
+      - title: "Changelog"
+        url: "changelog"
          
 # main:
 #   - title: "Quick-Start Guide"
