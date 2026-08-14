@@ -8,11 +8,12 @@ toc_icon: false # "cog"
 toc_sticky: true
 sidebar: nav
 ---
-## 2025.X
+## 2026.X
 
 ### What's changed
 
 **Documents**
+- Doc: BAMA-zing: added
 - Doc: certificates, forms: extract graduate certificate
 - Doc: dash, hyphen: update text
 - Doc: Degree Works: added
@@ -20,12 +21,14 @@ sidebar: nav
 - Doc: Fourth of July: fix and update example
 - Doc: graduate certificate: added
 - Doc: non-: updated example
-- Doc: seasons: fix and update example
+- Doc: seasons: update guidance and example
 - Doc: Supe Store: added
+- Doc: time: update example
 - Doc: toward: added
 - Doc: Tuscaloosa, T-Town: added
 
 **New Pages**
+- BAMA-zing
 - Degree Works
 - education, educational
 - graduate certificate
