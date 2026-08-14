@@ -8,60 +8,44 @@ toc_icon: false # "cog"
 toc_sticky: true
 sidebar: nav
 ---
-## 2026.X
+## 2026.8
 
 ### What's changed
 
 **Documents**
 - Doc: BAMA-zing: added
+- Doc: Capstone, the: added
+- Doc: Degree Works: added
+- Doc: Fourth of July: fix and update example
+- Doc: Supe Store: added
+- Doc: Tuscaloosa, T-Town: added
 - Doc: certificates, forms: extract graduate certificate
 - Doc: dash, hyphen: update text
-- Doc: Degree Works: added
 - Doc: education, educational: added
-- Doc: Fourth of July: fix and update example
 - Doc: graduate certificate: added
+- Doc: military titles: added
+- Doc: non-: update example, dictionary reference
 - Doc: non-: updated example
 - Doc: seasons: update guidance and example
-- Doc: Supe Store: added
+- Doc: telephone numbers: added
+- Doc: time frame: added
 - Doc: time: update example
 - Doc: toward: added
-- Doc: Tuscaloosa, T-Town: added
 
 **New Pages**
 - BAMA-zing
+- Capstone, the
 - Degree Works
+- Supe Store
+- Tuscaloosa, T-Town
 - education, educational
 - graduate certificate
-- Supe Store
-- toward
-- Tuscaloosa, T-Town
-
-## 2025.5
-
-### What's Changed
-
-**Documents**
-- Doc: military titles: added
-
-**New Pages**
 - military titles
-
-## 2024.12
-
-### What's Changed
-
-**Documents**
-- Doc: Capstone, the: added
-- Doc: non-: update example, dictionary reference
-- Doc: telephone numbers: added
-- Doc: time frame: added
-
-**New Pages**
-- Capstone, the
 - telephone numbers
 - time frame
+- toward
 
-**Full Changelog:** 
+**Full Changelog:** [2024.8...2026.8](https://github.com/UA-Online/style-guide/compare/2024.8...2026.8)
 
 ## 2024.8
 
