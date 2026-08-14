@@ -10,9 +10,7 @@ sidebar: nav
 ---
 ## 2026.8
 
-### What's changed
-
-**Documents**
+**Documents added**
 - Doc: BAMA-zing: added
 - Doc: Capstone, the: added
 - Doc: Degree Works: added
@@ -32,7 +30,7 @@ sidebar: nav
 - Doc: time: update example
 - Doc: toward: added
 
-**New Pages**
+**New pages**
 - BAMA-zing
 - Capstone, the
 - Degree Works
@@ -49,9 +47,7 @@ sidebar: nav
 
 ## 2024.8
 
-### What's Changed 
-
-**Documents**
+**Documents added**
 - Doc: academic degrees: added example
 - Doc: comma: updated example
 - Doc: ellipsis: added
@@ -60,7 +56,7 @@ sidebar: nav
 - Doc: longtime, long time: added
 - Doc: time: added time value guidance
 
-**New Pages**
+**New pages**
 - ellipsis
 - faculty
 - life span
@@ -70,11 +66,9 @@ sidebar: nav
 
 ## 2024.7
 
-### What's Changed
-
 AP Stylebook now uses Merriam-Webster as their official dictionary, replacing Webster's New World College Dictionary. References in Marketing Style Guide to be updated.
 
-**Documents**
+**Documents added**
 - Doc: abbreviations: modified
 - Doc: academic degrees: removed outdated example
 - Doc: academic honors: added
@@ -98,7 +92,7 @@ AP Stylebook now uses Merriam-Webster as their official dictionary, replacing We
 - Doc: well-being: added
 - Doc: year-round: update dictionary reference
 
-**New Pages**
+**New pages**
 - academic honors
 - Black Belt
 - Fourth of July
