@@ -3,30 +3,21 @@
 search: false
 ---
 
+/**
+ * CONTENTS
+ *
+ * minimal-mistakes/skins.........Skin.
+ * minimal-mistakes...............Main partials.
+ * minerva-critical...............Brand-specific styles.
+ * overrides......................Style overrides.
+ */
+
+
 @charset "utf-8";
 
-@import url("minerva-critical.css");
-@import url("minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"); // skin
-@import url("minimal-mistakes"); // main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+ 
+@import "minimal-mistakes/minerva-critical";
+@import "minimal-mistakes/overrides";
 
-/* footer div */.page__footer-copyright {
-   display: none;
-}
-
-.greedy-nav a /*.ua_title-bar_name */ {
-   margin-inline: 0;
-}
-
-.page__content:not(:has( > h2)) > aside /*.sidebar__right nav.toc */ { /* page content does not have an H2 child, applied to any aside children of page content */
-      display: none;
-   }
-
-
-.toc__menu /* li */ a {
-   font-weight: normal;
-}
-
-/* ul */.index_toc li {
-   font-size: 0.875rem;
-   margin-bottom: 0px;
-} 

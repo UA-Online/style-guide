@@ -1,0 +1,76 @@
+/*------------------------------------*\
+  #STYLE-OVERRIDES
+\*------------------------------------*/
+
+
+/*------------------------------------*\
+  #FOOTER
+\*------------------------------------*/
+
+/**
+ * Source: minimal-mistakes/_footer.scss
+ *
+ * Hide the standard Minimal Mistakes footer copyright.
+ */
+
+.page__footer-copyright {
+  display: none;
+}
+
+
+/*------------------------------------*\
+  #PAGE
+\*------------------------------------*/
+
+/**
+ * Source: minimal-mistakes/_page.scss
+ *
+ * Hide sidebar navigation when page content contains no H2 headings.
+ */
+
+.page__content:not(:has(> h2)) > aside {
+  display: none;
+}
+
+
+/*------------------------------------*\
+  #NAVIGATION
+\*------------------------------------*/
+
+/**
+ * Source: minimal-mistakes/_navigation.scss
+ *
+ * Remove the default horizontal margin from navigation links.
+ */
+
+.greedy-nav a {
+  margin-inline: 0;
+}
+
+/**
+ * Source: minimal-mistakes/_navigation.scss
+ *
+ * Remove the default bold weight from TOC links.
+ */
+
+.toc__menu a {
+  font-weight: normal;
+}
+
+
+/*------------------------------------*\
+  #INDEX
+\*------------------------------------*/
+
+/**
+ * Sources:
+ * - minimal-mistakes/_base.scss
+ * - minimal-mistakes/_page.scss
+ *
+ * Override list typography and spacing for index TOC items.
+ */
+
+.index__toc li {
+  font-size: 0.875rem;
+  margin-bottom: 0;
+}
