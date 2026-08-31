@@ -5,29 +5,28 @@ search: false
 
 @charset "utf-8";
 
-footer div.page__footer-copyright {
+@import url("minerva-critical.css");
+@import url("minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"); // skin
+@import url("minimal-mistakes"); // main partials
+
+/* footer div */.page__footer-copyright {
    display: none;
 }
 
-.greedy-nav a.ua_title-bar_name {
-   margin: 0;
+.greedy-nav a /*.ua_title-bar_name */ {
+   margin-inline: 0;
 }
 
-section.page__content:not(:has(h2)) {
-   
-   aside.sidebar__right nav.toc {
+.page__content:not(:has( > h2)) > aside /*.sidebar__right nav.toc */ { /* page content does not have an H2 child, applied to any aside children of page content */
       display: none;
    }
-}
 
-.toc__menu li a {
+
+.toc__menu /* li */ a {
    font-weight: normal;
 }
 
-ul.index_toc li {
+/* ul */.index_toc li {
    font-size: 0.875rem;
    margin-bottom: 0px;
-}
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+} 
