@@ -331,7 +331,7 @@ DEPENDENCIES
   base64
   bigdecimal
   csv
-  github-pages (~> 232)
+  github-pages
   jekyll-extract-element
   jekyll-remote-theme
   minimal-mistakes-jekyll
