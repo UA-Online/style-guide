@@ -4,6 +4,14 @@
 
 
 /*------------------------------------*\
+  #HEADER
+\*------------------------------------*/
+
+.masthead__menu-item {
+  display: none;
+}
+
+/*------------------------------------*\
   #FOOTER
 \*------------------------------------*/
 
@@ -13,6 +21,7 @@
  * Hide the standard Minimal Mistakes footer copyright.
  */
 
+.page__footer-follow,
 .page__footer-copyright {
   display: none;
 }
