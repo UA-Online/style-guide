@@ -11,7 +11,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
 # gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # To upgrade, run `bundle update`.
@@ -19,9 +19,10 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 gem "minimal-mistakes-jekyll"
 
-gem "jekyll-remote-theme"
+# gem "jekyll-remote-theme"
+gem 'jekyll-remote-theme', '>= 0.6.2'
 
-gem "jekyll-extract-element"
+# gem "jekyll-extract-element"
 
 gem "csv"
 gem "base64"
