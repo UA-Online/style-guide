@@ -21,7 +21,7 @@ _The Tide finished first. He had nine laps to go. Fourth grade, the First Amendm
  _1st Sgt. Jane Smith_, but _Smith was a second lieutenant._
 
 ## Ranges
- _Every two to three weeks_, but _a two-to-three-week session_ (if the numbers are part of a compound modifier). Be careful not to confuse numerical ranges with suspensive hyphenation. A numerical range would be, “They ran five-to-10-minute laps” (the laps were anywhere from five to 10 minutes); suspensive hyphenation indicates separate items, like “They alternated between five- and 10-minute intervals.”
+ _Every two to three weeks_, but _a two-to-three-week session_ (if the numbers are part of a compound modifier). Monetary ranges repeat the currency symbol: _Sponsorships range from $100–$300._ Be careful not to confuse numerical ranges with suspensive hyphenation. A numerical range would be, “They ran five-to-10-minute laps” (the laps were anywhere from five to 10 minutes); suspensive hyphenation indicates separate items, like “They alternated between five- and 10-minute intervals.”
 
 ## School grades
  Spell out first through ninth grades: _fourth grade, fifth-grader_ (note hyphen). Use figures for grades 10 and above: _10th grade._

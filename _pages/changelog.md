@@ -8,12 +8,13 @@ toc_icon: false # "cog"
 toc_sticky: true
 sidebar: nav
 ---
-## 2026.9
+## 2026.10
 
 **Documents added**
 
 - Doc: homeschool: added
 - Doc: microcertificate, micro–: added
+- Doc: numbers, numerals: update guidance and example
 
 **New pages**
 - homeschool
