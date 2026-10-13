@@ -14,7 +14,7 @@ Entries in this style guide are copied or adapted from The University of Alabama
 
 Entry sources are cited when available. Content on the AP Stylebook website may be viewed through [UA Libraries](http://libdata.lib.ua.edu/login?url=https://www.apstylebook.com/ua_edu). 
 
-View Marketing style guide updates on the [changelog]({{ site.baseurl }}{% link _pages/changelog.md %}).
+View Marketing style guide updates on the [changelog]({% link _pages/changelog.md %}).
 
 [^1]: The University of Alabama Strategic Communications Editorial Style Guide is available at [https://strategiccommunications.ua.edu/standards/editorial-style](https://strategiccommunications.ua.edu/standards/editorial-style). The Strategic Communications online guide is constantly updated, and references in this document may no longer appear on the Strategic Communications webpage.
 
