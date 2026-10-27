@@ -15,7 +15,7 @@ Do not use periods in degree name abbreviations unless specifically mandated by 
 
 Marketing always capitalizes majors/specialties in degree names: _Master of Science in Aerospace Engineering and Mechanics, master’s in Aerospace Engineering and Mechanics._[^26]
 
-See also: [Educational Specialist]({{ site.baseurl }}{% link _entries/educational-specialist.md %}), [specialist, specialization]({{ site.baseurl }}{% link _entries/specialist-specialization.md %})
+See also: [Educational Specialist]({% link _entries/educational-specialist.md %}), [specialist, specialization]({% link _entries/specialist-specialization.md %})
 
 [^25]: [https://www.apstylebook.com/ap\_stylebook/academic-degrees](https://www.apstylebook.com/ap_stylebook/academic-degrees) and Strategic Communications ([https://strategiccommunications.ua.edu/standards/editorial-style#acadegrees](https://strategiccommunications.ua.edu/standards/editorial-style#acadegrees)). We do not use periods in degree abbreviations per Strategic Communications, though the AP Stylebook disagrees.
 

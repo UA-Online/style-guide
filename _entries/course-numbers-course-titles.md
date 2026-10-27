@@ -26,6 +26,6 @@ Cross-listed courses offered for both undergraduate and graduate credit with two
 
 Do not use a colon or a slash with courses except to indicate lecture-and-laboratory or cross-listed courses.[^79]
 
-See also: [academic departments]({{ site.baseurl }}{% link _entries/academic-departments.md %}).
+See also: [academic departments]({% link _entries/academic-departments.md %}).
 
 [^79]: Strategic Communications

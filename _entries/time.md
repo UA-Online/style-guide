@@ -6,7 +6,7 @@ Use figures except for _noon_ and _midnight_. Use periods in a.m. and p.m., and 
 
 For time values, spell out numbers less than 10 standing alone and in modifiers: _I’ll be there in five minutes. The two-minute warning._[^2]
 
-See also: [a.m., p.m.]({{ site.baseurl }}{% link _entries/am-pm.md %}); [dash, hyphen]({{ site.baseurl }}{% link _entries/dash-hyphen.md %}) [numbers, numerals]({{ site.baseurl }}{% link _entries/numbers-numerals.md %}); [time zones]({{ site.baseurl }}{% link _entries/time-zones.md %}).
+See also: [a.m., p.m.]({% link _entries/am-pm.md %}); [dash, hyphen]({% link _entries/dash-hyphen.md %}) [numbers, numerals]({% link _entries/numbers-numerals.md %}); [time zones]({% link _entries/time-zones.md %}).
 
 [^1]: [https://www.apstylebook.com/ap\_stylebook/times](https://www.apstylebook.com/ap_stylebook/times)
 

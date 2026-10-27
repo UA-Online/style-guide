@@ -15,7 +15,7 @@ Avoid long acronyms and using multiple acronyms in a series. When using an acron
 
 Use periods in certain two-letter abbreviations (U.S., U.N.), but not for GI, ID, ABD, FBI, CIA, GOP or other recognizable acronyms. In most cases omit periods unless the acronym would spell an unrelated word. Follow Webster’s New World College Dictionary where applicable.[^3]
 
-See also: [United States, U.S.]({{ site.baseurl }}{% link _entries/united-states-us.md %})
+See also: [United States, U.S.]({% link _entries/united-states-us.md %})
 
 [^3]: [https://www.apstylebook.com/ap\_stylebook/abbreviations-and-acronyms](https://www.apstylebook.com/ap_stylebook/abbreviations-and-acronyms)
 
@@ -34,7 +34,7 @@ Do not use periods in degree name abbreviations unless specifically mandated by 
 
 Marketing always capitalizes majors/specialties in degree names: _Master of Science in Aerospace Engineering and Mechanics, master’s in Aerospace Engineering and Mechanics._[^26]
 
-See also: [Educational Specialist]({{ site.baseurl }}{% link _entries/educational-specialist.md %}), [specialist, specialization]({{ site.baseurl }}{% link _entries/specialist-specialization.md %})
+See also: [Educational Specialist]({% link _entries/educational-specialist.md %}), [specialist, specialization]({% link _entries/specialist-specialization.md %})
 
 [^25]: [https://www.apstylebook.com/ap\_stylebook/academic-degrees](https://www.apstylebook.com/ap_stylebook/academic-degrees) and Strategic Communications ([https://strategiccommunications.ua.edu/standards/editorial-style#acadegrees](https://strategiccommunications.ua.edu/standards/editorial-style#acadegrees)). We do not use periods in degree abbreviations per Strategic Communications, though the AP Stylebook disagrees.
 
@@ -88,7 +88,7 @@ person.name@ua.edu
 
 Always use figures (the number, not spelled out) for ages. Use hyphens for ages expressed as adjectives before a noun or as substitutes for a noun: _A 5-year-old boy_, but _the boy is 5 years old_. _The boy, 7, has a sister, 10._ _The woman, 33, has a daughter 2 months old._ _The race is for 3-year-olds._ _Many distance students are in their 60s_ (no apostrophe).[^4]
 
-See also: [numbers]({{ site.baseurl }}{% link _entries/numbers-numerals.md %}).
+See also: [numbers]({% link _entries/numbers-numerals.md %}).
 
 [^4]: [https://www.apstylebook.com/ap\_stylebook/ages](https://www.apstylebook.com/ap_stylebook/ages)
 
@@ -108,7 +108,7 @@ Listed in Webster’s New World College Dictionary without periods. Consider “
 
 Lowercase, with periods,[^32] and preceded by a space: _7 p.m., 9–11 a.m._, _9 a.m. to 5 p.m._
 
-See also: [time]({{ site.baseurl }}{% link _entries/time.md %}), [time zones]({{ site.baseurl }}{% link _entries/time-zones.md %}).
+See also: [time]({% link _entries/time.md %}), [time zones]({% link _entries/time-zones.md %}).
 
 [^32]: [https://www.apstylebook.com/ap\_stylebook/a-m-p-m](https://www.apstylebook.com/ap_stylebook/a-m-p-m)
 
@@ -179,7 +179,7 @@ Do not capitalize the common names of semesters, terms, academic sessions or per
 ### Compositions
 Capitalize the principal words in the names of books, movies, poems, songs, radio and television programs, works of art, etc.[^7]
 
-See also: [academic titles]({{ site.baseurl }}{% link _entries/academic-titles.md %}); [directions, regions]({{ site.baseurl }}{% link _entries/directions-regions.md %}) (for north, south, etc.); [headings]({{ site.baseurl }}{% link _entries/headings.md %}).
+See also: [academic titles]({% link _entries/academic-titles.md %}); [directions, regions]({% link _entries/directions-regions.md %}) (for north, south, etc.); [headings]({% link _entries/headings.md %}).
 
 [^6]: Strategic Communications
 
@@ -242,7 +242,7 @@ A colon should not be used before a list of items that completes the sentence as
 *   Incorrect: The five courses she took were: MATH 125, EN 102, IE 203, COM 203 and ARH 151.
 *   Correct: The five courses she took were MATH 125, EN 102, IE 203, COM 203 and ARH 151.[^9]
 
-See also: [lists]({{ site.baseurl }}{% link _entries/lists.md %}).
+See also: [lists]({% link _entries/lists.md %}).
 
 [^8]: [https://www.apstylebook.com/ap\_stylebook/colon-2](https://www.apstylebook.com/ap_stylebook/colon-2)
 
@@ -274,7 +274,7 @@ Do not use a comma when the subject of two clauses is not repeated in the second
 ### With full dates
  When a phrase refers to a month, day and year, set off the year with a comma: _February 14, 2030, is the target date_.[^10]
 
-See also: [dates]({{ site.baseurl }}{% link _entries/dates.md %}).
+See also: [dates]({% link _entries/dates.md %}).
 
 [^10]: [https://www.apstylebook.com/ap\_stylebook/comma-2](https://www.apstylebook.com/ap_stylebook/comma-2)
 
@@ -319,7 +319,7 @@ Cross-listed courses offered for both undergraduate and graduate credit with two
 
 Do not use a colon or a slash with courses except to indicate lecture-and-laboratory or cross-listed courses.[^79]
 
-See also: [academic departments]({{ site.baseurl }}{% link _entries/academic-departments.md %}).
+See also: [academic departments]({% link _entries/academic-departments.md %}).
 
 [^79]: Strategic Communications
 
@@ -393,7 +393,7 @@ Use a space for phrases with a common element (“suspensive hyphenation”): _I
 
 Write month and date as March 2, not March 2nd. Use a comma to set off the year when the phrase refers to a month, date and year: _They won the championship on January 9, 2017, and everyone celebrated._
 
-See also: [months]({{ site.baseurl }}{% link _entries/months.md %}).
+See also: [months]({% link _entries/months.md %}).
 
 ## decision-making
 
@@ -442,7 +442,7 @@ Below are the official names of colleges as recognized by Strategic Communicatio
 
 EdS is an acceptable abbreviation on first usage, but if necessary, this is spelled out and capitalized as Educational Specialist (not Education Specialist) in marketing materials and public-facing products.[^43] Capitalize “specialist” when spelled out in formal degree names (“Educational Specialist in Special Education”), but lowercase when not referring to a degree, like “child life specialist.”
 
-See also: [academic degrees]({{ site.baseurl }}{% link _entries/academic-degrees.md %}), [specialist, specialization]({{ site.baseurl }}{% link _entries/specialist-specialization.md %})
+See also: [academic degrees]({% link _entries/academic-degrees.md %}), [specialist, specialization]({% link _entries/specialist-specialization.md %})
 
 [^43]: Strategic Communications
 
@@ -493,7 +493,7 @@ Two words with no hyphen.[^49]
 
 Spelled as such, capitalized and with "Fouth" spelled out (not _4th of July_).[^1] The date is written as _July 4_ (not _4th_). _Enjoy your Fourth of July holiday. Our offices are closed on July 4. Let us know how you're spending your Fourth!_
 
-See also: [numbers, numerals]({{ site.baseurl }}{% link _entries/numbers-numerals.md %}).
+See also: [numbers, numerals]({% link _entries/numbers-numerals.md %}).
 
 [^1]: [https://www.apstylebook.com/ap_stylebook/fourth-of-july-july-fourth](https://www.apstylebook.com/ap_stylebook/fourth-of-july-july-fourth)
 
@@ -622,7 +622,7 @@ Use numbered or lettered lists (numbered preferred) when referring back to an it
 
 If the text will need to refer back to items in a run-in list, use letters or numbers enclosed in parentheses. Use commas or semicolons to separate these items exactly as if there were no numbers or letters. _They decided to (1) introduce a new program, (2) advertise it and (3) enroll students._
 
-See also: [colon]({{ site.baseurl }}{% link _entries/colon.md %}).
+See also: [colon]({% link _entries/colon.md %}).
 
 [^15]: Per previous Strategic Communications guidelines and Marketing custom.
 
@@ -675,7 +675,7 @@ Abbreviate *Jan., Feb., Aug., Sept., Oct., Nov.* and *Dec.* when used with a spe
 
 _She graduated in December 2024. The deadline to apply for the fall term is Aug. 1. He announced his retirement on Jan. 10, 2024, and we wished him well._
 
-See also: [dates]({{ site.baseurl }}{% link _entries/dates.md %}).
+See also: [dates]({% link _entries/dates.md %}).
 
 ## much-needed
 
@@ -724,7 +724,7 @@ Use figures for SAT, ACT and similar test scores. Use figures in constructions s
 ### With parenthesis
  In general, a spelled-out number does not also need the figure in parentheses. In cases where this is necessary (for instance, customary on Program Development program plans), numbers one through nine (or any spelled-out number that starts a sentence) can be followed by the figure in parenthesis if the number is being compared: _We enrolled eight (8) students in the fall, a 33 percent increase from six (6) students in the spring,_ but _We held one information session in the fall._
 
-See also: [ages]({{ site.baseurl }}{% link _entries/ages.md %}), [credit hours]({{ site.baseurl }}{% link _entries/credit-hours.md %}), [time]({{ site.baseurl }}{% link _entries/time.md %}).
+See also: [ages]({% link _entries/ages.md %}), [credit hours]({% link _entries/credit-hours.md %}), [time]({% link _entries/time.md %}).
 
 [^16]: [https://www.apstylebook.com/ap\_stylebook/numerals](https://www.apstylebook.com/ap_stylebook/numerals); Strategic Communications. For ranges, these guidelines differ from AP per this AP “Ask the Editor” discussion: [https://www.apstylebook.com/ask\_the\_editors/32472](https://www.apstylebook.com/ask_the_editors/32472).
 
@@ -866,7 +866,7 @@ Capitalize for Educational Specialist (where EdS is a formal degree, like _Educa
 
 “Specialization” does not tend to be capitalized when describing the formal name of a program (“Master of Science in Marketing with a specialization in Marketing Analytics”).
 
-See also: [academic degrees]({{ site.baseurl }}{% link _entries/academic-degrees.md %}), [Educational Specialist]({{ site.baseurl }}{% link _entries/educational-specialist.md %})
+See also: [academic degrees]({% link _entries/academic-degrees.md %}), [Educational Specialist]({% link _entries/educational-specialist.md %})
 
 ## state names
 
@@ -954,7 +954,7 @@ Use figures except for _noon_ and _midnight_. Use periods in a.m. and p.m., and 
 
 For time values, spell out numbers less than 10 standing alone and in modifiers: _I’ll be there in five minutes. The two-minute warning._[^2]
 
-See also: [a.m., p.m.]({{ site.baseurl }}{% link _entries/am-pm.md %}); [dash, hyphen]({{ site.baseurl }}{% link _entries/dash-hyphen.md %}) [numbers, numerals]({{ site.baseurl }}{% link _entries/numbers-numerals.md %}); [time zones]({{ site.baseurl }}{% link _entries/time-zones.md %}).
+See also: [a.m., p.m.]({% link _entries/am-pm.md %}); [dash, hyphen]({% link _entries/dash-hyphen.md %}) [numbers, numerals]({% link _entries/numbers-numerals.md %}); [time zones]({% link _entries/time-zones.md %}).
 
 [^1]: [https://www.apstylebook.com/ap\_stylebook/times](https://www.apstylebook.com/ap_stylebook/times)
 
@@ -964,7 +964,7 @@ See also: [a.m., p.m.]({{ site.baseurl }}{% link _entries/am-pm.md %}); [dash, h
 
 @UAOnline — Actual URL is https://x.com/UAOnline
 
-See also: [X/Twitter]({{ site.baseurl }}{% link _entries/twitter.md %}) (“Grammar/Punctuation”)
+See also: [X/Twitter]({% link _entries/twitter.md %}) (“Grammar/Punctuation”)
 
 
 
@@ -972,7 +972,7 @@ See also: [X/Twitter]({{ site.baseurl }}{% link _entries/twitter.md %}) (“Gram
 
 Write X/Twitter handles with an @ symbol: _We announced the information session through the UA Online account (@UAOnline)._ If the word “at” would be used in the sentence, omit it before the handle (_You can reach us @UAOnline_), though a better option is to rewrite the sentence so it doesn’t use the understood “at” (_You can reach @UAOnline on X/Twitter_).[^22]
 
-See also: [X/Twitter]({{ site.baseurl }}{% link _entries/twitter-2.md %}) (“References and Resources”)
+See also: [X/Twitter]({% link _entries/twitter-2.md %}) (“References and Resources”)
 
 [^22]: [https://www.apstylebook.com/ask\_the\_editors/28580](https://www.apstylebook.com/ask_the_editors/28580)
 
